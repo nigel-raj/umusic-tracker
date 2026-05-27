@@ -12,7 +12,12 @@ TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 LATEST_SNAPSHOT = "snapshots/latest.json"
 HISTORY_FOLDER = "snapshots/history"
 
+MAX_MESSAGE_LENGTH = 3800  # safer than 4096
 
+
+# ----------------------------
+# FETCH ALL PRODUCTS (PAGINATED)
+# ----------------------------
 def fetch_products():
 
     page = 1
@@ -21,9 +26,7 @@ def fetch_products():
     while True:
 
         url = f"{BASE_URL}?limit=250&page={page}"
-
         response = requests.get(url)
-
         data = response.json()
 
         batch = data.get("products", [])
@@ -35,46 +38,37 @@ def fetch_products():
 
             for variant in product["variants"]:
 
-                variant_title = (
-                    variant["title"]
-                    if variant["title"] != "Default Title"
-                    else None
-                )
-
                 key = str(variant["id"])
 
                 products[key] = {
 
-                    # PRODUCT
                     "product_id": product["id"],
                     "title": product["title"],
                     "handle": product["handle"],
                     "url": f"https://umusic.my/products/{product['handle']}",
 
-                    # ARTIST / TYPE
-                    "vendor": product.get("vendor"),
-                    "product_type": product.get("product_type"),
+                    "vendor": product.get("vendor", "Unknown"),
 
-                    # DATES
+                    "product_type": (
+                        product.get("product_type", "Unknown")
+                        .strip()
+                        .title()
+                    ),
+
                     "created_at": product.get("created_at"),
-                    "published_at": product.get("published_at"),
                     "updated_at": product.get("updated_at"),
 
-                    # TAGS
                     "tags": product.get("tags", []),
 
-                    # VARIANT
-                    "variant_title": variant_title,
+                    "variant_title": None
+                    if variant["title"] == "Default Title"
+                    else variant["title"],
+
                     "sku": variant.get("sku"),
-
-                    # PRICING
-                    "price": variant["price"],
+                    "price": float(variant["price"]),
                     "compare_at_price": variant.get("compare_at_price"),
-
-                    # STOCK
                     "available": variant["available"],
 
-                    # IMAGE
                     "image": (
                         product["images"][0]["src"]
                         if product.get("images")
@@ -82,14 +76,14 @@ def fetch_products():
                     )
                 }
 
-        print(f"Fetched page {page} ({len(batch)} products)")
         page += 1
-
-    print(f"Total tracked variants: {len(products)}")
 
     return products
 
 
+# ----------------------------
+# SNAPSHOT
+# ----------------------------
 def load_previous_snapshot():
 
     if not os.path.exists(LATEST_SNAPSHOT):
@@ -109,18 +103,19 @@ def save_snapshot(products):
     with open(LATEST_SNAPSHOT, "w", encoding="utf-8") as f:
         json.dump(products, f, indent=2)
 
-    history_path = f"{HISTORY_FOLDER}/{today}.json"
-
-    with open(history_path, "w", encoding="utf-8") as f:
+    with open(f"{HISTORY_FOLDER}/{today}.json", "w", encoding="utf-8") as f:
         json.dump(products, f, indent=2)
 
 
+# ----------------------------
+# DIFF ENGINE
+# ----------------------------
 def compare_snapshots(old, new):
 
     changes = {
-        "new_products": [],
-        "removed_products": [],
-        "price_changes": [],
+        "new": [],
+        "removed": [],
+        "price": [],
         "restocked": [],
         "sold_out": []
     }
@@ -128,184 +123,81 @@ def compare_snapshots(old, new):
     old_keys = set(old.keys())
     new_keys = set(new.keys())
 
-    # NEW PRODUCTS
-    for key in new_keys - old_keys:
+    for k in new_keys - old_keys:
+        changes["new"].append(new[k])
 
-        item = new[key]
+    for k in old_keys - new_keys:
+        changes["removed"].append(old[k])
 
-        changes["new_products"].append(item)
+    for k in old_keys & new_keys:
 
-    # REMOVED PRODUCTS
-    for key in old_keys - new_keys:
+        o = old[k]
+        n = new[k]
 
-        item = old[key]
-
-        changes["removed_products"].append(item)
-
-    # EXISTING PRODUCTS
-    for key in old_keys & new_keys:
-
-        old_item = old[key]
-        new_item = new[key]
-
-        # PRICE CHANGES
-        if old_item["price"] != new_item["price"]:
-
-            changes["price_changes"].append({
-                "title": new_item["title"],
-                "variant_title": new_item["variant_title"],
-                "old_price": old_item["price"],
-                "new_price": new_item["price"]
+        if o["price"] != n["price"]:
+            changes["price"].append({
+                "title": n["title"],
+                "variant": n["variant_title"],
+                "old": o["price"],
+                "new": n["price"]
             })
 
-        # RESTOCKED
-        if not old_item["available"] and new_item["available"]:
+        if not o["available"] and n["available"]:
+            changes["restocked"].append(n)
 
-            changes["restocked"].append(new_item)
-
-        # SOLD OUT
-        if old_item["available"] and not new_item["available"]:
-
-            changes["sold_out"].append(new_item)
+        if o["available"] and not n["available"]:
+            changes["sold_out"].append(n)
 
     return changes
 
 
+# ----------------------------
+# METRICS
+# ----------------------------
 def build_metrics(products):
 
-    total_products = len(products)
-
-    available_products = sum(
-        1 for p in products.values() if p["available"]
-    )
-
-    sold_out_products = total_products - available_products
+    unique_products = len(set(p["product_id"] for p in products.values()))
 
     product_types = Counter(
-        p.get("product_type", "Unknown")
-        for p in products.values()
+        p["product_type"] for p in products.values()
     )
 
+    vendors = Counter(
+        p["vendor"] for p in products.values()
+    )
+
+    available = sum(1 for p in products.values() if p["available"])
+
     return {
-        "total_products": total_products,
-        "available_products": available_products,
-        "sold_out_products": sold_out_products,
-        "product_types": product_types
+        "total_variants": len(products),
+        "unique_products": unique_products,
+        "available": available,
+        "sold_out": len(products) - available,
+        "product_types": product_types,
+        "vendors": vendors
     }
 
 
-def format_product(item):
+# ----------------------------
+# MESSAGE UTILITIES
+# ----------------------------
+def chunk_text(text):
 
-    variant = (
-        f" ({item['variant_title']})"
-        if item.get("variant_title")
-        else ""
-    )
+    chunks = []
+    current = ""
 
-    return (
-        f"• *{item['vendor']}*\n"
-        f"  [{item['title']}]({item['url']}){variant}\n"
-        f"  `{item['product_type']}` • RM{item['price']}"
-    )
+    for line in text.split("\n"):
 
+        if len(current) + len(line) > MAX_MESSAGE_LENGTH:
+            chunks.append(current)
+            current = line + "\n"
+        else:
+            current += line + "\n"
 
-def build_message(changes, metrics):
+    if current:
+        chunks.append(current)
 
-    sections = []
-
-    # METRICS
-    metrics_section = (
-        "📊 *STORE METRICS*\n"
-        f"• Total Products: {metrics['total_products']}\n"
-        f"• Available: {metrics['available_products']}\n"
-        f"• Sold Out: {metrics['sold_out_products']}\n\n"
-        "*Formats*\n"
-    )
-
-    for product_type, count in metrics["product_types"].most_common():
-
-        metrics_section += f"• {product_type}: {count}\n"
-
-    sections.append(metrics_section)
-
-    # NEW PRODUCTS
-    if changes["new_products"]:
-
-        text = "🆕 *NEW PRODUCTS*\n\n"
-
-        text += "\n\n".join(
-            format_product(item)
-            for item in changes["new_products"][:10]
-        )
-
-        sections.append(text)
-
-    # REMOVED PRODUCTS
-    if changes["removed_products"]:
-
-        text = "❌ *REMOVED PRODUCTS*\n\n"
-
-        text += "\n".join(
-            f"• {item['title']}"
-            for item in changes["removed_products"][:10]
-        )
-
-        sections.append(text)
-
-    # PRICE CHANGES
-    if changes["price_changes"]:
-
-        text = "💰 *PRICE CHANGES*\n\n"
-
-        for item in changes["price_changes"][:15]:
-
-            variant = (
-                f" ({item['variant_title']})"
-                if item["variant_title"]
-                else ""
-            )
-
-            text += (
-                f"• *{item['title']}*{variant}\n"
-                f"  RM{item['old_price']} → RM{item['new_price']}\n\n"
-            )
-
-        sections.append(text)
-
-    # RESTOCKED
-    if changes["restocked"]:
-
-        text = "📦 *RESTOCKED*\n\n"
-
-        text += "\n".join(
-            f"• {item['title']}"
-            for item in changes["restocked"][:15]
-        )
-
-        sections.append(text)
-
-    # SOLD OUT
-    if changes["sold_out"]:
-
-        text = "🚫 *SOLD OUT*\n\n"
-
-        text += "\n".join(
-            f"• {item['title']}"
-            for item in changes["sold_out"][:15]
-        )
-
-        sections.append(text)
-
-    today = datetime.now().strftime("%Y-%m-%d")
-
-    message = (
-        f"🎵 *UMUSIC DAILY SUMMARY*\n"
-        f"_{today}_\n\n"
-    )
-
-    message += "\n━━━━━━━━━━━━━━\n\n".join(sections)
-
-    return message
+    return chunks
 
 
 def send_telegram(message):
@@ -315,37 +207,94 @@ def send_telegram(message):
 
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
 
-    payload = {
-        "chat_id": TELEGRAM_CHAT_ID,
-        "text": message,
-        "parse_mode": "Markdown",
-        "disable_web_page_preview": True
-    }
+    chunks = chunk_text(message)
 
-    requests.post(url, data=payload)
+    for c in chunks:
+
+        requests.post(url, data={
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": c,
+            "parse_mode": "Markdown",
+            "disable_web_page_preview": True
+        })
 
 
+# ----------------------------
+# FORMATTERS
+# ----------------------------
+def format_item(item):
+
+    return (
+        f"• *{item['vendor']}*\n"
+        f"  [{item['title']}]({item['url']})\n"
+        f"  `{item['product_type']}` • RM{item['price']}"
+    )
+
+
+def build_message(changes, metrics):
+
+    msg = ""
+
+    # METRICS
+    msg += "🎵 *UMUSIC DAILY SUMMARY*\n\n"
+
+    msg += "📊 *STORE METRICS*\n"
+    msg += f"• Variants: {metrics['total_variants']}\n"
+    msg += f"• Unique Products: {metrics['unique_products']}\n"
+    msg += f"• Available: {metrics['available']}\n"
+    msg += f"• Sold Out: {metrics['sold_out']}\n\n"
+
+    msg += "*Product Types*\n"
+    for k, v in metrics["product_types"].most_common():
+        msg += f"• {k}: {v}\n"
+
+    msg += "\n━━━━━━━━━━━━━━\n\n"
+
+    # NEW
+    if changes["new"]:
+        msg += f"🆕 *NEW PRODUCTS ({len(changes['new'])})*\n\n"
+        for i in changes["new"]:
+            msg += format_item(i) + "\n\n"
+
+    # PRICE
+    if changes["price"]:
+        msg += f"💰 *PRICE CHANGES ({len(changes['price'])})*\n\n"
+        for i in changes["price"]:
+            msg += (
+                f"• {i['title']}\n"
+                f"  RM{i['old']} → RM{i['new']}\n\n"
+            )
+
+    # RESTOCKED
+    if changes["restocked"]:
+        msg += f"📦 *RESTOCKED ({len(changes['restocked'])})*\n\n"
+        for i in changes["restocked"]:
+            msg += f"• {i['title']}\n"
+
+    # SOLD OUT
+    if changes["sold_out"]:
+        msg += f"\n🚫 *SOLD OUT ({len(changes['sold_out'])})*\n\n"
+        for i in changes["sold_out"]:
+            msg += f"• {i['title']}\n"
+
+    return msg
+
+
+# ----------------------------
+# MAIN
+# ----------------------------
 def main():
 
-    current_products = fetch_products()
+    current = fetch_products()
+    previous = load_previous_snapshot()
 
-    previous_products = load_previous_snapshot()
+    changes = compare_snapshots(previous, current)
+    metrics = build_metrics(current)
 
-    changes = compare_snapshots(
-        previous_products,
-        current_products
-    )
-
-    metrics = build_metrics(current_products)
-
-    message = build_message(
-        changes,
-        metrics
-    )
+    message = build_message(changes, metrics)
 
     send_telegram(message)
-
-    save_snapshot(current_products)
+    save_snapshot(current)
 
 
 if __name__ == "__main__":
