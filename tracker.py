@@ -12,23 +12,69 @@ SNAPSHOT_FILE = "snapshots/latest.json"
 
 
 def fetch_products():
-    response = requests.get(SHOP_URL)
-    data = response.json()
 
+    page = 1
     products = {}
 
-    for product in data["products"]:
-        for variant in product["variants"]:
+    while True:
 
-            key = str(variant["id"])
+        url = f"https://umusic.my/collections/music/products.json?limit=250&page={page}"
 
-            products[key] = {
-                "product_title": product["title"],
-                "variant_title": variant["title"],
-                "sku": variant.get("sku"),
-                "price": variant["price"],
-                "available": variant["available"]
-            }
+        response = requests.get(url)
+        data = response.json()
+
+        batch = data.get("products", [])
+
+        if not batch:
+            break
+
+        for product in batch:
+
+            for variant in product["variants"]:
+
+                key = str(variant["id"])
+
+                products[key] = {
+
+                    # PRODUCT INFO
+                    "product_id": product["id"],
+                    "title": product["title"],
+                    "handle": product["handle"],
+                    "vendor": product.get("vendor"),
+                    "product_type": product.get("product_type"),
+
+                    # IMPORTANT DATES
+                    "created_at": product.get("created_at"),
+                    "published_at": product.get("published_at"),
+                    "updated_at": product.get("updated_at"),
+
+                    # TAGS
+                    "tags": product.get("tags", []),
+
+                    # VARIANT INFO
+                    "variant_title": variant["title"],
+                    "sku": variant.get("sku"),
+
+                    # PRICING
+                    "price": variant["price"],
+                    "compare_at_price": variant.get("compare_at_price"),
+
+                    # STOCK
+                    "available": variant["available"],
+
+                    # IMAGE
+                    "image": (
+                        product["images"][0]["src"]
+                        if product.get("images")
+                        else None
+                    )
+                }
+
+        print(f"Fetched page {page} ({len(batch)} products)")
+
+        page += 1
+
+    print(f"Total variants tracked: {len(products)}")
 
     return products
 
