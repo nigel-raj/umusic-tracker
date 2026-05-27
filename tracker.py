@@ -49,11 +49,7 @@ def fetch_products():
 
                     "vendor": product.get("vendor", "Unknown"),
 
-                    "product_type": (
-                        product.get("product_type", "Unknown")
-                        .strip()
-                        .title()
-                    ),
+                    "product_type": product.get("product_type", "Unknown"),
 
                     "created_at": product.get("created_at"),
                     "updated_at": product.get("updated_at"),
@@ -65,7 +61,7 @@ def fetch_products():
                     else variant["title"],
 
                     "sku": variant.get("sku"),
-                    "price": float(variant["price"]),
+                    "price": variant["price"],
                     "compare_at_price": variant.get("compare_at_price"),
                     "available": variant["available"],
 
@@ -156,7 +152,11 @@ def compare_snapshots(old, new):
 # ----------------------------
 def build_metrics(products):
 
-    unique_products = len(set(p["product_id"] for p in products.values()))
+    variant_count = len(products)
+
+    unique_products = len(
+        set(p["product_id"] for p in products.values())
+    )
 
     product_types = Counter(
         p["product_type"] for p in products.values()
@@ -168,11 +168,15 @@ def build_metrics(products):
 
     available = sum(1 for p in products.values() if p["available"])
 
+    # SMART LOGIC: if same, don’t duplicate in UI
+    same = variant_count == unique_products
+
     return {
-        "total_variants": len(products),
+        "variant_count": variant_count,
         "unique_products": unique_products,
+        "show_unique": not same,
         "available": available,
-        "sold_out": len(products) - available,
+        "sold_out": variant_count - available,
         "product_types": product_types,
         "vendors": vendors
     }
@@ -236,11 +240,13 @@ def build_message(changes, metrics):
     msg = ""
 
     # METRICS
-    msg += "🎵 *UMUSIC DAILY SUMMARY*\n\n"
-
     msg += "📊 *STORE METRICS*\n"
-    msg += f"• Variants: {metrics['total_variants']}\n"
-    msg += f"• Unique Products: {metrics['unique_products']}\n"
+    
+    msg += f"• Total SKUs: {metrics['variant_count']}\n"
+    
+    if metrics["show_unique"]:
+        msg += f"• Unique Products: {metrics['unique_products']}\n"
+    
     msg += f"• Available: {metrics['available']}\n"
     msg += f"• Sold Out: {metrics['sold_out']}\n\n"
 
