@@ -317,7 +317,8 @@ def build_alert_message(changes):
     Only sent when there are actual changes.
     """
     msg = ""
-    now_str = datetime.now().strftime("%d %b %Y, %I:%M %p")
+    from zoneinfo import ZoneInfo
+    now_str = datetime.now(ZoneInfo("Asia/Kuala_Lumpur")).strftime("%d %b %Y, %I:%M %p")
     msg += f"🎵 *UMusic MY — Changes Detected*\n_{now_str}_\n\n━━━━━━━━━━━━━━\n\n"
 
     # NEW PRODUCTS
@@ -388,7 +389,7 @@ def build_daily_digest(metrics, products):
     Daily digest: store metrics + full on-sale list.
     Sent once per day via IS_DAILY_RUN=true.
     """
-    now_str = datetime.now().strftime("%d %b %Y")
+    now_str = datetime.now(ZoneInfo("Asia/Kuala_Lumpur")).strftime("%d %b %Y")
     msg = f"📋 *UMusic MY — Daily Digest*\n_{now_str}_\n\n━━━━━━━━━━━━━━\n\n"
 
     # METRICS
