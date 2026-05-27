@@ -2,9 +2,16 @@ name: UMusic Tracker
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-
+    # Every 30 minutes — change detection + alerts
+    - cron: "*/30 * * * *"
+    # Once daily at 9:00 AM MYT (01:00 UTC) — digest + metrics
+    - cron: "0 1 * * *"
   workflow_dispatch:
+    inputs:
+      daily_digest:
+        description: "Send daily digest? (true/false)"
+        required: false
+        default: "false"
 
 permissions:
   contents: write
@@ -25,19 +32,37 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Determine if this is a daily digest run
+        id: check_daily
+        run: |
+          # True if triggered by the 01:00 UTC cron OR manually with daily_digest=true
+          CURRENT_MINUTE=$(date -u +"%H:%M")
+          if [[ "$CURRENT_MINUTE" == "01:00" || "$CURRENT_MINUTE" == "01:01" ]]; then
+            echo "IS_DAILY=true" >> $GITHUB_ENV
+          elif [[ "${{ github.event.inputs.daily_digest }}" == "true" ]]; then
+            echo "IS_DAILY=true" >> $GITHUB_ENV
+          else
+            echo "IS_DAILY=false" >> $GITHUB_ENV
+          fi
+
       - name: Run tracker
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          IS_DAILY_RUN: ${{ env.IS_DAILY }}
         run: python tracker.py
+
+      - name: Upload snapshot artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: latest-snapshot
+          path: snapshots/latest.json
+          retention-days: 7
 
       - name: Commit updated snapshots
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-
           git add snapshots/
-
-          git commit -m "Update snapshots" || echo "No changes"
-
+          git commit -m "snapshot: $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes"
           git push
