@@ -7,7 +7,7 @@
     "vendor": "Taylor Swift",
     "product_type": "CD",
     "created_at": "2025-08-12T13:58:30+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -27,7 +27,7 @@
     "vendor": "Eason Chan",
     "product_type": "Blu-Ray",
     "created_at": "2025-07-25T10:33:30+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Eason Chan",
       "Music"
@@ -47,7 +47,7 @@
     "vendor": "KPop Demon Hunters Cast, HUNTR/X, Saja Boys",
     "product_type": "CD",
     "created_at": "2025-06-26T11:58:23+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KPDH",
       "Music"
@@ -67,7 +67,7 @@
     "vendor": "Taylor Swift",
     "product_type": "Vinyl",
     "created_at": "2024-03-12T10:37:27+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -87,7 +87,7 @@
     "vendor": "Taylor Swift",
     "product_type": "CD",
     "created_at": "2024-02-27T14:11:43+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -107,7 +107,7 @@
     "vendor": "Jay Chou",
     "product_type": "CD",
     "created_at": "2026-03-31T07:52:34+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Jay Chou",
       "Music",
@@ -128,7 +128,7 @@
     "vendor": "Taylor Swift",
     "product_type": "Vinyl",
     "created_at": "2024-03-12T10:35:38+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -148,7 +148,7 @@
     "vendor": "Taylor Swift",
     "product_type": "Vinyl",
     "created_at": "2024-03-12T10:34:30+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -168,7 +168,7 @@
     "vendor": "Fujii Kaze",
     "product_type": "Vinyl",
     "created_at": "2024-12-04T14:58:15+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music"
     ],
@@ -187,7 +187,7 @@
     "vendor": "Fujii Kaze",
     "product_type": "Vinyl",
     "created_at": "2024-12-04T15:04:59+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music"
     ],
@@ -206,7 +206,7 @@
     "vendor": "Olivia Rodrigo",
     "product_type": "Vinyl",
     "created_at": "2026-04-03T00:35:35+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -228,7 +228,7 @@
     "vendor": "Fujii Kaze",
     "product_type": "Vinyl",
     "created_at": "2025-06-13T08:21:12+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music"
     ],
@@ -247,7 +247,7 @@
     "vendor": "Taylor Swift",
     "product_type": "Vinyl",
     "created_at": "2024-02-27T14:12:48+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -267,7 +267,7 @@
     "vendor": "Taylor Swift",
     "product_type": "Vinyl",
     "created_at": "2024-11-27T17:58:11+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -287,7 +287,7 @@
     "vendor": "Olivia Rodrigo",
     "product_type": "Vinyl",
     "created_at": "2024-04-02T14:16:59+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Olivia Rodrigo"
@@ -307,7 +307,7 @@
     "vendor": "Billie Eilish",
     "product_type": "CD",
     "created_at": "2024-04-09T12:05:36+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Billie Eilish",
       "Music"
@@ -327,7 +327,7 @@
     "vendor": "ALYPH",
     "product_type": "Vinyl",
     "created_at": "2025-10-17T11:06:54+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "ALYPH",
       "Music",
@@ -348,7 +348,7 @@
     "vendor": "KPop Demon Hunters Cast, HUNTR/X, Saja Boys",
     "product_type": "Vinyl",
     "created_at": "2025-07-21T18:48:38+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KPDH",
       "Music"
@@ -368,7 +368,7 @@
     "vendor": "Olivia Rodrigo",
     "product_type": "Vinyl",
     "created_at": "2026-04-03T00:42:38+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -390,7 +390,7 @@
     "vendor": "Fujii Kaze",
     "product_type": "CD",
     "created_at": "2025-06-13T08:17:39+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music"
     ],
@@ -409,7 +409,7 @@
     "vendor": "Billie Eilish",
     "product_type": "Vinyl",
     "created_at": "2024-04-09T12:10:36+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Billie Eilish",
       "Music"
@@ -429,7 +429,7 @@
     "vendor": "Billie Eilish",
     "product_type": "Vinyl",
     "created_at": "2026-04-16T17:57:52+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Billie Eilish",
       "Music",
@@ -442,27 +442,6 @@
     "available": false,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/HitMeHardAndSoftTheTourLive1.jpg?v=1776334423"
   },
-  "52731107344673": {
-    "product_id": 10352231252257,
-    "title": "dangerous woman tenth anniversary edition 2lp (2026 art)",
-    "handle": "dangerous-woman-tenth-anniversary-edition-2lp-2026-art",
-    "url": "https://umusic.my/products/dangerous-woman-tenth-anniversary-edition-2lp-2026-art",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2026-05-20T13:15:11+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music",
-      "NEW"
-    ],
-    "variant_title": null,
-    "sku": "5718190",
-    "price": "230.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/DangerousWoman2026Ret-1.jpg?v=1779291551"
-  },
   "51364328407329": {
     "product_id": 10013817831713,
     "title": "HIT ME HARD AND SOFT Anniversary Edition Vinyl",
@@ -471,7 +450,7 @@
     "vendor": "Billie Eilish",
     "product_type": "Vinyl",
     "created_at": "2025-06-11T13:45:22+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Billie Eilish",
       "Music"
@@ -491,7 +470,7 @@
     "vendor": "KPop Demon Hunters Cast, HUNTR/X, Saja Boys",
     "product_type": "Vinyl",
     "created_at": "2025-08-07T09:46:26+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KPDH",
       "Music"
@@ -511,7 +490,7 @@
     "vendor": "Taylor Swift",
     "product_type": "Vinyl",
     "created_at": "2024-05-15T16:49:37+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -523,27 +502,6 @@
     "available": false,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/1989_Taylor_sVersion_Vinyl.jpg?v=1756950470"
   },
-  "52615985889569": {
-    "product_id": 10333049192737,
-    "title": "petal cloudy gray girl lp (store exclusive)",
-    "handle": "petal-cloudy-gray-girl-lp-store-exclusive",
-    "url": "https://umusic.my/products/petal-cloudy-gray-girl-lp-store-exclusive",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2026-04-29T13:04:18+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music",
-      "NEW"
-    ],
-    "variant_title": null,
-    "sku": "5792368",
-    "price": "180.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/petalcloudygraygirllpstoreexclusive1.jpg?v=1777440466"
-  },
   "51512521752865": {
     "product_id": 10072180031777,
     "title": "FEAR and DREAMS World Tour 2 CD",
@@ -552,7 +510,7 @@
     "vendor": "Eason Chan",
     "product_type": "CD",
     "created_at": "2025-07-25T10:34:51+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Eason Chan",
       "Music"
@@ -572,7 +530,7 @@
     "vendor": "Sabrina Carpenter",
     "product_type": "CD",
     "created_at": "2024-09-23T16:36:25+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -593,7 +551,7 @@
     "vendor": "Billie Eilish",
     "product_type": "Vinyl",
     "created_at": "2024-04-09T12:08:07+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Billie Eilish",
       "Music"
@@ -613,7 +571,7 @@
     "vendor": "Justin Bieber",
     "product_type": "CD",
     "created_at": "2025-07-11T15:14:49+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Justin Bieber",
       "Music",
@@ -634,7 +592,7 @@
     "vendor": "Lady Gaga",
     "product_type": "CD",
     "created_at": "2024-09-25T14:20:37+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Lady Gaga",
       "Music"
@@ -654,7 +612,7 @@
     "vendor": "Olivia Rodrigo",
     "product_type": "Vinyl",
     "created_at": "2026-10-13T23:34:32+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Olivia Rodrigo",
@@ -676,7 +634,7 @@
     "vendor": "Olivia Rodrigo",
     "product_type": "Vinyl",
     "created_at": "2026-04-03T00:36:33+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -698,7 +656,7 @@
     "vendor": "Lady Gaga",
     "product_type": "Vinyl",
     "created_at": "2025-01-27T17:45:48+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Lady Gaga",
       "Music"
@@ -718,7 +676,7 @@
     "vendor": "Lady Gaga",
     "product_type": "Vinyl",
     "created_at": "2025-02-22T14:12:18+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Lady Gaga",
       "Music"
@@ -738,7 +696,7 @@
     "vendor": "Lady Gaga",
     "product_type": "CD",
     "created_at": "2025-01-27T17:42:06+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Lady Gaga",
       "Music"
@@ -758,7 +716,7 @@
     "vendor": "keshi",
     "product_type": "Vinyl",
     "created_at": "2024-09-05T15:47:42+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "keshi",
       "Music"
@@ -770,26 +728,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/Requiem-D2CV1-LP.jpg?v=1725943459"
   },
-  "51044203331873": {
-    "product_id": 9910747431201,
-    "title": "eternal sunshine deluxe: brighter days ahead lp",
-    "handle": "eternal-sunshine-deluxe-brighter-days-ahead-lp",
-    "url": "https://umusic.my/products/eternal-sunshine-deluxe-brighter-days-ahead-lp",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2025-03-17T17:34:33+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "6807646",
-    "price": "240.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/eternalsunshinedeluxe-brighterdaysaheadlp.jpg?v=1742204356"
-  },
   "50281558049057": {
     "product_id": 9664998965537,
     "title": "GUTS standard cd",
@@ -798,7 +736,7 @@
     "vendor": "Olivia Rodrigo",
     "product_type": "CD",
     "created_at": "2024-09-10T19:03:51+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -811,27 +749,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/GUTS-CD.jpg?v=1791510264"
   },
-  "52615997391137": {
-    "product_id": 10333054468385,
-    "title": "petal cd",
-    "handle": "petal-cd",
-    "url": "https://umusic.my/products/petal-cd",
-    "vendor": "Ariana Grande",
-    "product_type": "CD",
-    "created_at": "2026-04-29T13:05:56+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music",
-      "NEW"
-    ],
-    "variant_title": null,
-    "sku": "5792365",
-    "price": "90.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/petalcd.jpg?v=1777439641"
-  },
   "51550441341217": {
     "product_id": 10088333443361,
     "title": "SOUR standard vinyl",
@@ -840,7 +757,7 @@
     "vendor": "Olivia Rodrigo",
     "product_type": "Vinyl",
     "created_at": "2025-08-05T15:29:23+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Olivia Rodrigo"
@@ -852,26 +769,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/SOURLP.jpg?v=1791510408"
   },
-  "51044201038113": {
-    "product_id": 9910746448161,
-    "title": "eternal sunshine deluxe: brighter days ahead cd (store exclusive)",
-    "handle": "eternal-sunshine-deluxe-brighter-days-ahead-cd-store-exclusive",
-    "url": "https://umusic.my/products/eternal-sunshine-deluxe-brighter-days-ahead-cd-store-exclusive",
-    "vendor": "Ariana Grande",
-    "product_type": "CD",
-    "created_at": "2025-03-17T17:33:33+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "7545418",
-    "price": "70.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/eternalsunshinedeluxe-brighterdaysaheadd2ccd.jpg?v=1742204211"
-  },
   "50637119881505": {
     "product_id": 9788390703393,
     "title": "Hurry Up Tomorrow (First Pressing Vinyl)",
@@ -880,7 +777,7 @@
     "vendor": "The Weeknd",
     "product_type": "Vinyl",
     "created_at": "2024-11-30T01:31:42+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "The Weeknd"
@@ -900,7 +797,7 @@
     "vendor": "keshi",
     "product_type": "CD",
     "created_at": "2024-04-24T01:36:01+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "keshi",
       "Music"
@@ -912,68 +809,6 @@
     "available": false,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/gabriel-photozine.jpg?v=1713894122"
   },
-  "48507644870945": {
-    "product_id": 9142980084001,
-    "title": "eternal sunshine (exclusive cover no. 4) lp",
-    "handle": "eternal-sunshine-exclusive-cover-no-4-lp",
-    "url": "https://umusic.my/products/eternal-sunshine-exclusive-cover-no-4-lp",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2024-04-02T00:04:47+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "6502632",
-    "price": "140.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/eternalsunshineD2CLP_4.jpg?v=1742199649"
-  },
-  "52731105050913": {
-    "product_id": 10352230433057,
-    "title": "dangerous woman tenth anniversary edition 2lp (2026 art - store exclusive)",
-    "handle": "dangerous-woman-tenth-anniversary-edition-2lp-2026-art-store-exclusive",
-    "url": "https://umusic.my/products/dangerous-woman-tenth-anniversary-edition-2lp-2026-art-store-exclusive",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2026-05-20T13:13:42+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music",
-      "NEW"
-    ],
-    "variant_title": null,
-    "sku": "5722652",
-    "price": "260.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/DangerousWoman2026-1.jpg?v=1779291519"
-  },
-  "52731102167329": {
-    "product_id": 10352229810465,
-    "title": "dangerous woman tenth anniversary edition 2lp (2016 art - store exclusive)",
-    "handle": "dangerous-woman-tenth-anniversary-edition-2lp-2016-art-store-exclusive",
-    "url": "https://umusic.my/products/dangerous-woman-tenth-anniversary-edition-2lp-2016-art-store-exclusive",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2026-05-20T13:11:45+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music",
-      "NEW"
-    ],
-    "variant_title": null,
-    "sku": "5722650",
-    "price": "260.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/DangerousWoman2016-1.jpg?v=1779291489"
-  },
   "51544132321569": {
     "product_id": 10086551028001,
     "title": "Golden 7\" Vinyl",
@@ -982,7 +817,7 @@
     "vendor": "HUNTR/X (EJAE, Audrey Nuna, and REI AMI)",
     "product_type": "Vinyl",
     "created_at": "2025-08-04T10:05:12+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KPDH",
       "Music"
@@ -1002,7 +837,7 @@
     "vendor": "KPop Demon Hunters Cast, HUNTR/X, Saja Boys",
     "product_type": "Vinyl",
     "created_at": "2025-06-30T10:30:30+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KPDH",
       "Music"
@@ -1022,7 +857,7 @@
     "vendor": "Lady Gaga",
     "product_type": "Vinyl",
     "created_at": "2025-03-10T08:51:25+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Lady Gaga",
       "Music"
@@ -1042,7 +877,7 @@
     "vendor": "KPop Demon Hunters Cast, HUNTR/X, Saja Boys",
     "product_type": "CD",
     "created_at": "2025-08-07T09:54:14+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KPDH",
       "Music"
@@ -1054,67 +889,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/KPopDemonHunters_SoundtrackfromtheNetflixFilm_StoreExclusiveCD-revealedinclusion.jpg?v=1760346755"
   },
-  "48507599290657": {
-    "product_id": 9142969893153,
-    "title": "eternal sunshine (exclusive cover no. 2) lp",
-    "handle": "eternal-sunshine-exclusive-cover-no-2-lp",
-    "url": "https://umusic.my/products/eternal-sunshine-exclusive-cover-no-2-lp",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2024-04-02T00:00:25+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "6502631",
-    "price": "140.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/eternalsunshineD2CLP_2.jpg?v=1742199373"
-  },
-  "52865968537889": {
-    "product_id": 10378181280033,
-    "title": "petal cd (store exclusive lenticular cover)",
-    "handle": "petal-cd-store-exclusive-lenticular-cover",
-    "url": "https://umusic.my/products/petal-cd-store-exclusive-lenticular-cover",
-    "vendor": "Ariana Grande",
-    "product_type": "CD",
-    "created_at": "2026-06-19T08:00:24+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music",
-      "NEW"
-    ],
-    "variant_title": null,
-    "sku": "5792378",
-    "price": "90.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/petalcd_storeexclusivelenticularcover_1.gif?v=1781829222"
-  },
-  "52038487277857": {
-    "product_id": 10191906079009,
-    "title": "yours truly lp (clear & white swirl)",
-    "handle": "yours-truly-lp-clear-white-swirl",
-    "url": "https://umusic.my/products/yours-truly-lp-clear-white-swirl",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2025-11-26T14:47:51+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "7797455",
-    "price": "150.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/yourstrulylp_clear_whiteswirl.jpg?v=1764901839"
-  },
   "51526126338337": {
     "product_id": 10079744852257,
     "title": "Man's Best Friend D2C Luxe Packaging LP",
@@ -1123,7 +897,7 @@
     "vendor": "Sabrina Carpenter",
     "product_type": "Vinyl",
     "created_at": "2025-07-29T11:19:59+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Sabrina Carpenter"
@@ -1143,7 +917,7 @@
     "vendor": "Lady Gaga",
     "product_type": "Vinyl",
     "created_at": "2025-03-10T08:52:14+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Lady Gaga",
       "Music"
@@ -1163,7 +937,7 @@
     "vendor": "Sabrina Carpenter",
     "product_type": "Vinyl",
     "created_at": "2024-09-23T16:40:52+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -1184,7 +958,7 @@
     "vendor": "Taylor Swift",
     "product_type": "Vinyl",
     "created_at": "2024-05-15T18:16:56+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -1204,7 +978,7 @@
     "vendor": "Billie Eilish",
     "product_type": "Vinyl",
     "created_at": "2024-04-09T12:06:52+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Billie Eilish",
       "Music"
@@ -1224,7 +998,7 @@
     "vendor": "Troye Sivan",
     "product_type": "Vinyl",
     "created_at": "2025-12-04T19:16:31+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -1245,7 +1019,7 @@
     "vendor": "Lady Gaga",
     "product_type": "Vinyl",
     "created_at": "2024-09-25T14:22:52+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Lady Gaga",
       "Music"
@@ -1265,7 +1039,7 @@
     "vendor": "Lady Gaga",
     "product_type": "Vinyl",
     "created_at": "2026-05-29T22:02:25+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Lady Gaga",
       "Music",
@@ -1286,7 +1060,7 @@
     "vendor": "Justin Bieber",
     "product_type": "Vinyl",
     "created_at": "2025-10-30T13:04:37+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Justin Bieber",
       "Music"
@@ -1306,7 +1080,7 @@
     "vendor": "Justin Bieber",
     "product_type": "Vinyl",
     "created_at": "2025-07-11T15:15:49+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Justin Bieber",
       "Music",
@@ -1319,26 +1093,6 @@
     "available": false,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/SWAG2LP.jpg?v=1783096595"
   },
-  "51044184523041": {
-    "product_id": 9910737338657,
-    "title": "eternal sunshine deluxe: brighter days ahead cd",
-    "handle": "eternal-sunshine-deluxe-brighter-days-ahead-cd",
-    "url": "https://umusic.my/products/eternal-sunshine-deluxe-brighter-days-ahead-cd",
-    "vendor": "Ariana Grande",
-    "product_type": "CD",
-    "created_at": "2025-03-17T17:25:02+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "6807641",
-    "price": "70.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/eternalsunshinedeluxe-brighterdaysaheadcd.jpg?v=1742203621"
-  },
   "48602992181537": {
     "product_id": 9181643112737,
     "title": "HIT ME HARD AND SOFT Excl. Grey Vinyl",
@@ -1347,7 +1101,7 @@
     "vendor": "Billie Eilish",
     "product_type": "Vinyl",
     "created_at": "2024-04-09T12:09:11+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Billie Eilish",
       "Music"
@@ -1359,26 +1113,6 @@
     "available": false,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/HitMeHardAndSoftD2CLP_2.jpg?v=1744877806"
   },
-  "48507581333793": {
-    "product_id": 9142965960993,
-    "title": "eternal sunshine (exclusive cover no. 1) lp",
-    "handle": "eternal-sunshine-exclusive-cover-no-1-lp",
-    "url": "https://umusic.my/products/eternal-sunshine-exclusive-cover-no-1-lp",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2024-04-01T23:58:55+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "6502629",
-    "price": "140.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/eternalsunshineD2CLP_1.jpg?v=1742199297"
-  },
   "51819594678561": {
     "product_id": 10132172505377,
     "title": "Wicked: For Good \u2013 The Soundtrack Picture Disc Vinyl",
@@ -1387,7 +1121,7 @@
     "vendor": "Wicked Movie Cast, Cynthia Erivo, Ariana Grande",
     "product_type": "Vinyl",
     "created_at": "2025-09-17T17:06:51+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Wicked"
@@ -1407,7 +1141,7 @@
     "vendor": "Conan Gray",
     "product_type": "Vinyl",
     "created_at": "2025-06-12T18:07:42+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Conan Gray",
       "Music"
@@ -1427,7 +1161,7 @@
     "vendor": "Sabrina Carpenter",
     "product_type": "Vinyl",
     "created_at": "2025-06-12T12:46:59+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Sabrina Carpenter"
@@ -1447,7 +1181,7 @@
     "vendor": "Katy Perry",
     "product_type": "Vinyl",
     "created_at": "2024-05-09T15:31:34+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Katy Perry",
       "Music"
@@ -1467,7 +1201,7 @@
     "vendor": "Daniel Caesar",
     "product_type": "Vinyl",
     "created_at": "2026-04-14T15:49:13+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Daniel Caesar",
       "Music",
@@ -1488,7 +1222,7 @@
     "vendor": "Billie Eilish",
     "product_type": "Vinyl",
     "created_at": "2026-03-27T00:58:09+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Billie Eilish",
       "Music",
@@ -1509,7 +1243,7 @@
     "vendor": "Wicked Movie Cast, Cynthia Erivo, Ariana Grande",
     "product_type": "Vinyl",
     "created_at": "2025-11-12T10:30:13+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Wicked"
@@ -1521,26 +1255,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/WickedForGood_TheSoundtrackZoetropeVinyl1.jpg?v=1762915365"
   },
-  "51044204216609": {
-    "product_id": 9910748152097,
-    "title": "eternal sunshine deluxe: brighter days ahead lp (store exclusive)",
-    "handle": "eternal-sunshine-deluxe-brighter-days-ahead-lp-store-exclusive",
-    "url": "https://umusic.my/products/eternal-sunshine-deluxe-brighter-days-ahead-lp-store-exclusive",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2025-03-17T17:35:22+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "7545425",
-    "price": "240.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/eternalsunshinedeluxe-brighterdaysaheadd2clp.jpg?v=1742204350"
-  },
   "50942189732129": {
     "product_id": 9880035852577,
     "title": "Short n' Sweet Alternate Cover Limited Edition LP",
@@ -1549,7 +1263,7 @@
     "vendor": "Sabrina Carpenter",
     "product_type": "Vinyl",
     "created_at": "2025-02-22T15:43:33+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -1570,7 +1284,7 @@
     "vendor": "The Weeknd",
     "product_type": "CD",
     "created_at": "2024-11-30T01:30:40+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "The Weeknd"
@@ -1590,7 +1304,7 @@
     "vendor": "Gracie Abrams",
     "product_type": "CD",
     "created_at": "2024-10-18T12:35:50+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Gracie Abrams",
       "Music"
@@ -1610,7 +1324,7 @@
     "vendor": "Sabrina Carpenter",
     "product_type": "CD",
     "created_at": "2024-09-23T16:35:31+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -1631,7 +1345,7 @@
     "vendor": "Ariana Grande",
     "product_type": "CD",
     "created_at": "2024-04-01T23:52:49+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Ariana Grande",
       "Music"
@@ -1643,6 +1357,27 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/eternalsunshineD2CCD_1.jpg?v=1742198380"
   },
+  "54317950271777": {
+    "product_id": 10673311416609,
+    "title": "take me home (4 christmas) - exclusive 'under the tree' red 7\" vinyl",
+    "handle": "take-me-home-4-christmas-exclusive-under-the-tree-red-7-vinyl",
+    "url": "https://umusic.my/products/take-me-home-4-christmas-exclusive-under-the-tree-red-7-vinyl",
+    "vendor": "Olivia Rodrigo",
+    "product_type": "Vinyl",
+    "created_at": "2026-11-03T00:27:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
+    "tags": [
+      "Music",
+      "Olivia Rodrigo",
+      "Pre-Order"
+    ],
+    "variant_title": null,
+    "sku": "6127430",
+    "price": "90.00",
+    "compare_at_price": null,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/takemehome_4christmas_-exclusive_underthetree_red7vinyl.jpg?v=1793637311"
+  },
   "52755786629409": {
     "product_id": 10354219712801,
     "title": "you seem pretty sad for a girl so in love - exclusive 'carve our names' picture disc vinyl",
@@ -1651,7 +1386,7 @@
     "vendor": "Olivia Rodrigo",
     "product_type": "Vinyl",
     "created_at": "2026-05-22T23:57:28+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -1673,7 +1408,7 @@
     "vendor": "Daniel Caesar",
     "product_type": "Vinyl",
     "created_at": "2026-04-10T14:48:57+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Daniel Caesar",
       "Music",
@@ -1694,7 +1429,7 @@
     "vendor": "Taylor Swift",
     "product_type": "CD",
     "created_at": "2024-05-15T17:00:51+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -1714,7 +1449,7 @@
     "vendor": "Taylor Swift",
     "product_type": "CD",
     "created_at": "2024-05-15T18:01:14+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -1726,27 +1461,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/LoverStandardEditionPhysicalCD.jpg?v=1756200086"
   },
-  "54317950271777": {
-    "product_id": 10673311416609,
-    "title": "take me home (4 christmas) - exclusive 'under the tree' red 7\" vinyl",
-    "handle": "take-me-home-4-christmas-exclusive-under-the-tree-red-7-vinyl",
-    "url": "https://umusic.my/products/take-me-home-4-christmas-exclusive-under-the-tree-red-7-vinyl",
-    "vendor": "Olivia Rodrigo",
-    "product_type": "Vinyl",
-    "created_at": "2026-11-03T00:27:00+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Music",
-      "Olivia Rodrigo",
-      "Pre-Order"
-    ],
-    "variant_title": null,
-    "sku": "6127430",
-    "price": "90.00",
-    "compare_at_price": null,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/takemehome_4christmas_-exclusive_underthetree_red7vinyl.jpg?v=1793637311"
-  },
   "52529766629665": {
     "product_id": 10306391933217,
     "title": "you seem pretty sad for a girl so in love - exclusive 180-gram vinyl",
@@ -1755,7 +1469,7 @@
     "vendor": "Olivia Rodrigo",
     "product_type": "Vinyl",
     "created_at": "2026-04-03T00:43:33+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -1769,26 +1483,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/girlsoinlove-exclusive180-gramvinyl.jpg?v=1775149794"
   },
-  "52038558941473": {
-    "product_id": 10191906963745,
-    "title": "dangerous woman 2lp (purple & black swirl)",
-    "handle": "dangerous-woman-2lp-purple-black-swirl",
-    "url": "https://umusic.my/products/dangerous-woman-2lp-purple-black-swirl",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2025-11-26T14:48:55+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "7782514",
-    "price": "200.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/dangerouswoman2lp_purple_blackswirl.jpg?v=1764143476"
-  },
   "51959763403041": {
     "product_id": 10170734838049,
     "title": "My Worlds CD",
@@ -1797,7 +1491,7 @@
     "vendor": "Justin Bieber",
     "product_type": "CD",
     "created_at": "2025-10-30T12:59:42+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Justin Bieber",
       "Music"
@@ -1817,7 +1511,7 @@
     "vendor": "5 Seconds Of Summer",
     "product_type": "Vinyl",
     "created_at": "2025-09-24T12:21:26+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "5SOS",
       "Music",
@@ -1838,7 +1532,7 @@
     "vendor": "5 Seconds Of Summer",
     "product_type": "CD",
     "created_at": "2025-09-24T12:20:27+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "5SOS",
       "Music",
@@ -1859,7 +1553,7 @@
     "vendor": "Wicked Movie Cast, Cynthia Erivo, Ariana Grande",
     "product_type": "Vinyl",
     "created_at": "2025-09-17T17:04:48+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Wicked"
@@ -1879,7 +1573,7 @@
     "vendor": "Selena Gomez",
     "product_type": "Vinyl",
     "created_at": "2025-08-18T12:14:17+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Selena Gomez"
@@ -1891,6 +1585,26 @@
     "available": false,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/Rare5-YearAnniversaryStoreExclusiveDeluxeVinyl.jpg?v=1780064350"
   },
+  "51213220479265": {
+    "product_id": 9968953131297,
+    "title": "Hurry Up Tomorrow (Complete Edition) 2LP",
+    "handle": "hurry-up-tomorrow-complete-edition-2lp",
+    "url": "https://umusic.my/products/hurry-up-tomorrow-complete-edition-2lp",
+    "vendor": "The Weeknd",
+    "product_type": "Vinyl",
+    "created_at": "2025-04-24T14:39:48+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
+    "tags": [
+      "Music",
+      "The Weeknd"
+    ],
+    "variant_title": null,
+    "sku": "7569258",
+    "price": "220.00",
+    "compare_at_price": null,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/HurryUpTomorrow_CompleteEdition_2LP.jpg?v=1793233241"
+  },
   "50434970714401": {
     "product_id": 9728607060257,
     "title": "Wicked: The Soundtrack Standard CD",
@@ -1899,7 +1613,7 @@
     "vendor": "Wicked Movie Cast, Cynthia Erivo, Ariana Grande",
     "product_type": "CD",
     "created_at": "2024-10-09T16:03:34+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Wicked"
@@ -1919,7 +1633,7 @@
     "vendor": "Taylor Swift",
     "product_type": "Vinyl",
     "created_at": "2024-05-15T18:03:41+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -1939,7 +1653,7 @@
     "vendor": "DOLLA",
     "product_type": "CD",
     "created_at": "2024-03-15T14:38:23+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "DOLLA",
       "Music"
@@ -1959,7 +1673,7 @@
     "vendor": "The Weeknd",
     "product_type": "Vinyl",
     "created_at": "2026-10-29T09:16:58+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "The Weeknd"
@@ -1971,87 +1685,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/STARBOY2LP.jpg?v=1793237629"
   },
-  "52615987888417": {
-    "product_id": 10333050175777,
-    "title": "petal translucent pearly white lp",
-    "handle": "petal-translucent-pearly-white-lp",
-    "url": "https://umusic.my/products/petal-translucent-pearly-white-lp",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2026-04-29T13:05:14+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music",
-      "NEW"
-    ],
-    "variant_title": null,
-    "sku": "5792375",
-    "price": "180.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/petaltranslucentpearlywhitelp1.jpg?v=1777439862"
-  },
-  "52048643064097": {
-    "product_id": 10195253985569,
-    "title": "christmas & chill 10th anniversary edition lp (clear w/ snowflake etching)",
-    "handle": "christmas-chill-10th-anniversary-edition-lp-clear-w-snowflake-etching",
-    "url": "https://umusic.my/products/christmas-chill-10th-anniversary-edition-lp-clear-w-snowflake-etching",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2025-11-29T00:48:29+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "7884124",
-    "price": "180.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/christmas_chill10thanniversaryeditionlp_clearwsnowflakeetching_1.jpg?v=1764349082"
-  },
-  "52038618939681": {
-    "product_id": 10191908143393,
-    "title": "my everything lp (half clear/purple)",
-    "handle": "my-everything-lp-half-clear-purple",
-    "url": "https://umusic.my/products/my-everything-lp-half-clear-purple",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2025-11-26T14:49:56+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "7797447",
-    "price": "150.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/myeverythinglp_halfclearpurple.jpg?v=1764144710"
-  },
-  "52038413386017": {
-    "product_id": 10191904637217,
-    "title": "thank u, next 2lp (half clear/pink)",
-    "handle": "thank-u-next-2lp-half-clear-pink",
-    "url": "https://umusic.my/products/thank-u-next-2lp-half-clear-pink",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2025-11-26T14:46:21+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "0843772",
-    "price": "200.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/thanku_next2lp_halfclearpink.jpg?v=1764141671"
-  },
   "51367915094305": {
     "product_id": 10014635753761,
     "title": "Wishbone CD (Shooting Star Edition)",
@@ -2060,7 +1693,7 @@
     "vendor": "Conan Gray",
     "product_type": "CD",
     "created_at": "2025-06-12T18:07:05+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Conan Gray",
       "Music"
@@ -2072,46 +1705,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/WishboneCD_ShootingStarEdition.jpg?v=1785824323"
   },
-  "51213220479265": {
-    "product_id": 9968953131297,
-    "title": "Hurry Up Tomorrow (Complete Edition) 2LP",
-    "handle": "hurry-up-tomorrow-complete-edition-2lp",
-    "url": "https://umusic.my/products/hurry-up-tomorrow-complete-edition-2lp",
-    "vendor": "The Weeknd",
-    "product_type": "Vinyl",
-    "created_at": "2025-04-24T14:39:48+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Music",
-      "The Weeknd"
-    ],
-    "variant_title": null,
-    "sku": "7569258",
-    "price": "220.00",
-    "compare_at_price": null,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/HurryUpTomorrow_CompleteEdition_2LP.jpg?v=1793233241"
-  },
-  "51044164403489": {
-    "product_id": 9910726099233,
-    "title": "my everything (tenth anniversary edition) 2lp",
-    "handle": "my-everything-tenth-anniversary-edition-2lp",
-    "url": "https://umusic.my/products/my-everything-tenth-anniversary-edition-2lp",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2025-03-17T17:14:39+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "6592037",
-    "price": "210.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/myeverything10th.jpg?v=1742202988"
-  },
   "49009004970273": {
     "product_id": 9344031523105,
     "title": "Midnights: Moonstone Blue Edition Vinyl",
@@ -2120,7 +1713,7 @@
     "vendor": "Taylor Swift",
     "product_type": "Vinyl",
     "created_at": "2024-05-15T18:25:54+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -2140,7 +1733,7 @@
     "vendor": "Gracie Abrams",
     "product_type": "Vinyl",
     "created_at": "2026-05-11T23:56:02+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Gracie Abrams",
       "Music",
@@ -2161,7 +1754,7 @@
     "vendor": "Niall Horan",
     "product_type": "CD",
     "created_at": "2026-03-19T12:38:23+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Niall Horan"
@@ -2181,7 +1774,7 @@
     "vendor": "Fujii Kaze",
     "product_type": "CD",
     "created_at": "2026-02-10T14:38:06+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Fujii Kaze",
       "Music",
@@ -2202,7 +1795,7 @@
     "vendor": "Elliot James Reay",
     "product_type": "Vinyl",
     "created_at": "2025-11-29T00:21:51+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "BFCM",
       "Elliot James Reay",
@@ -2223,7 +1816,7 @@
     "vendor": "5 Seconds Of Summer",
     "product_type": "Vinyl",
     "created_at": "2025-11-28T18:55:25+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "5SOS",
       "Music",
@@ -2236,26 +1829,6 @@
     "available": false,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/EVERYONE_SASTAR_AltCoverLimoVinyl.jpg?v=1764327423"
   },
-  "52038630965537": {
-    "product_id": 10191908733217,
-    "title": "positions lp (coke bottle clear)",
-    "handle": "positions-lp-coke-bottle-clear",
-    "url": "https://umusic.my/products/positions-lp-coke-bottle-clear",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2025-11-26T14:50:52+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "3545090",
-    "price": "150.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/positionslp_cokebottleclear.jpg?v=1764144728"
-  },
   "51253397750049": {
     "product_id": 9980178858273,
     "title": "SIS (Soft Is Strong) - Official Store Exclusive Vinyl",
@@ -2264,7 +1837,7 @@
     "vendor": "KATSEYE",
     "product_type": "Vinyl",
     "created_at": "2025-05-07T11:49:58+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KATSEYE",
       "Music"
@@ -2284,7 +1857,7 @@
     "vendor": "Gracie Abrams",
     "product_type": "Vinyl",
     "created_at": "2024-10-18T12:33:41+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Gracie Abrams",
       "Music"
@@ -2304,7 +1877,7 @@
     "vendor": "Wicked Movie Cast, Cynthia Erivo, Ariana Grande",
     "product_type": "Vinyl",
     "created_at": "2024-10-09T16:19:39+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Wicked"
@@ -2324,7 +1897,7 @@
     "vendor": "Katy Perry",
     "product_type": "Vinyl",
     "created_at": "2024-07-12T13:31:24+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Katy Perry",
       "Music"
@@ -2344,7 +1917,7 @@
     "vendor": "Katy Perry",
     "product_type": "Vinyl",
     "created_at": "2024-05-09T15:39:11+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Katy Perry",
       "Music"
@@ -2364,7 +1937,7 @@
     "vendor": "Ariana Grande",
     "product_type": "CD",
     "created_at": "2024-04-01T23:54:02+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Ariana Grande",
       "Music"
@@ -2384,7 +1957,7 @@
     "vendor": "Conan Gray",
     "product_type": "Vinyl",
     "created_at": "2026-08-04T18:18:10+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Conan Gray",
       "Music",
@@ -2397,48 +1970,6 @@
     "available": false,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/WishboneDeluxe2LP_MothsSilverEdition.jpg?v=1785839398"
   },
-  "53009143890209": {
-    "product_id": 10415249293601,
-    "title": "petal exclusive picture disc",
-    "handle": "petal-exclusive-picture-disc",
-    "url": "https://umusic.my/products/petal-exclusive-picture-disc",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2026-07-09T12:49:15+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music",
-      "NEW"
-    ],
-    "variant_title": null,
-    "sku": "5792371",
-    "price": "200.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/petalexclusivepicturedisc1.jpg?v=1783573500"
-  },
-  "52865966702881": {
-    "product_id": 10378180919585,
-    "title": "petal opal girly lp (store exclusive lenticular cover)",
-    "handle": "petal-opal-girly-lp-store-exclusive-lenticular-cover",
-    "url": "https://umusic.my/products/petal-opal-girly-lp-store-exclusive-lenticular-cover",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2026-06-19T07:59:04+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music",
-      "NEW"
-    ],
-    "variant_title": null,
-    "sku": "5792370",
-    "price": "210.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/petalopalgirlylp_storeexclusivelenticularcover_1.gif?v=1781829477"
-  },
   "52042444308769": {
     "product_id": 10192812343585,
     "title": "Flicker Blue-Eyed Swirl Vinyl",
@@ -2447,7 +1978,7 @@
     "vendor": "Niall Horan",
     "product_type": "Vinyl",
     "created_at": "2025-11-27T12:23:19+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -2460,26 +1991,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/Flicker-Blue-EyedSwirlVinyl1.jpg?v=1764218625"
   },
-  "52038383829281": {
-    "product_id": 10191903719713,
-    "title": "sweetener 2lp (peach colored opaque)",
-    "handle": "sweetener-2lp-peach-colored-opaque",
-    "url": "https://umusic.my/products/sweetener-2lp-peach-colored-opaque",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2025-11-26T14:45:16+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "0843797",
-    "price": "200.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/sweetener2lp_peachcoloredopaque.jpg?v=1764140139"
-  },
   "51960881545505": {
     "product_id": 10170920599841,
     "title": "Purpose 2LP",
@@ -2488,7 +1999,7 @@
     "vendor": "Justin Bieber",
     "product_type": "Vinyl",
     "created_at": "2025-10-30T23:20:24+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Justin Bieber",
       "Music"
@@ -2508,7 +2019,7 @@
     "vendor": "5 Seconds Of Summer",
     "product_type": "CD",
     "created_at": "2025-10-16T17:34:47+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "5SOS",
       "Music",
@@ -2529,7 +2040,7 @@
     "vendor": "Selena Gomez",
     "product_type": "Vinyl",
     "created_at": "2025-08-18T12:13:00+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Selena Gomez"
@@ -2549,7 +2060,7 @@
     "vendor": "Saja Boys (Andrew Choi, Neckwav, Danny Chung, Kevin Woo, and samUIL Lee)",
     "product_type": "Vinyl",
     "created_at": "2025-08-04T10:06:36+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KPDH",
       "Music"
@@ -2569,7 +2080,7 @@
     "vendor": "KATSEYE",
     "product_type": "Vinyl",
     "created_at": "2025-06-12T08:11:25+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KATSEYE",
       "Music"
@@ -2589,7 +2100,7 @@
     "vendor": "Billie Eilish",
     "product_type": "Vinyl",
     "created_at": "2025-04-17T16:22:27+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Billie Eilish",
       "Music"
@@ -2609,7 +2120,7 @@
     "vendor": "The Weeknd",
     "product_type": "Vinyl",
     "created_at": "2025-04-16T17:26:10+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "The Weeknd"
@@ -2629,7 +2140,7 @@
     "vendor": "Elliot James Reay",
     "product_type": "Vinyl",
     "created_at": "2025-03-06T12:11:14+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Elliot James Reay",
       "Music"
@@ -2649,7 +2160,7 @@
     "vendor": "Joaquin Phoenix, Lady Gaga, Cast of Joker: Folie \u00e0 Deux",
     "product_type": "CD",
     "created_at": "2024-09-22T13:10:55+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Lady Gaga",
       "Music",
@@ -2670,7 +2181,7 @@
     "vendor": "Gracie Abrams",
     "product_type": "Vinyl",
     "created_at": "2024-06-26T16:10:56+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Gracie Abrams",
       "Music"
@@ -2682,6 +2193,26 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/TheSecretofUs-Vinyl.jpg?v=1778496359"
   },
+  "49009002938657": {
+    "product_id": 9344029688097,
+    "title": "Midnights: Mahogany Edition Vinyl",
+    "handle": "midnights-mahogany-edition-vinyl",
+    "url": "https://umusic.my/products/midnights-mahogany-edition-vinyl",
+    "vendor": "Taylor Swift",
+    "product_type": "Vinyl",
+    "created_at": "2024-05-15T18:25:11+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
+    "tags": [
+      "Music",
+      "Taylor Swift"
+    ],
+    "variant_title": null,
+    "sku": "4579007",
+    "price": "180.00",
+    "compare_at_price": null,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/MidnightsMahoganyEditionVinyl.jpg?v=1756869968"
+  },
   "49008557785377": {
     "product_id": 9343850938657,
     "title": "1. the \"in the trees\" edition deluxe cd",
@@ -2690,7 +2221,7 @@
     "vendor": "Taylor Swift",
     "product_type": "CD",
     "created_at": "2024-05-15T17:07:16+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -2702,6 +2233,26 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/1.theinthetreeseditiondeluxecd.jpg?v=1756197550"
   },
+  "54218077503777": {
+    "product_id": 10643261227297,
+    "title": "DAWN FM 2LP",
+    "handle": "dawn-fm-2lp",
+    "url": "https://umusic.my/products/dawn-fm-2lp",
+    "vendor": "The Weeknd",
+    "product_type": "Vinyl",
+    "created_at": "2026-10-29T09:44:38+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
+    "tags": [
+      "Music",
+      "The Weeknd"
+    ],
+    "variant_title": null,
+    "sku": "4540128",
+    "price": "190.00",
+    "compare_at_price": null,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/DAWNFM2LP.jpg?v=1793238387"
+  },
   "52270177911073": {
     "product_id": 10239543083297,
     "title": "The Great Divide Headlights In The Dark Vinyl",
@@ -2710,7 +2261,7 @@
     "vendor": "Noah Kahan",
     "product_type": "Vinyl",
     "created_at": "2026-01-29T14:30:38+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -2731,7 +2282,7 @@
     "vendor": "KPop Demon Hunters Cast, HUNTR/X, Saja Boys",
     "product_type": "Vinyl",
     "created_at": "2025-12-18T13:37:24+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KPDH",
       "Music",
@@ -2752,7 +2303,7 @@
     "vendor": "KPop Demon Hunters Cast, HUNTR/X, Saja Boys",
     "product_type": "Vinyl",
     "created_at": "2025-11-04T11:43:10+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KPDH",
       "Music",
@@ -2773,7 +2324,7 @@
     "vendor": "Justin Bieber",
     "product_type": "Vinyl",
     "created_at": "2025-09-04T15:19:47+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Justin Bieber",
       "Music",
@@ -2794,7 +2345,7 @@
     "vendor": "5 Seconds Of Summer",
     "product_type": "CD",
     "created_at": "2025-10-16T17:35:57+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "5SOS",
       "Music",
@@ -2815,7 +2366,7 @@
     "vendor": "5 Seconds Of Summer",
     "product_type": "CD",
     "created_at": "2025-10-16T17:31:27+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "5SOS",
       "Music",
@@ -2836,7 +2387,7 @@
     "vendor": "Troye Sivan",
     "product_type": "Vinyl",
     "created_at": "2025-09-26T16:07:19+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Troye Sivan"
@@ -2856,7 +2407,7 @@
     "vendor": "Wicked Movie Cast, Cynthia Erivo, Ariana Grande",
     "product_type": "CD",
     "created_at": "2025-09-17T17:02:06+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Wicked"
@@ -2876,7 +2427,7 @@
     "vendor": "KATSEYE",
     "product_type": "CD",
     "created_at": "2025-05-07T11:47:18+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KATSEYE",
       "Music"
@@ -2896,7 +2447,7 @@
     "vendor": "Hozier",
     "product_type": "Vinyl",
     "created_at": "2024-11-11T18:43:53+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Hozier",
       "Music"
@@ -2916,7 +2467,7 @@
     "vendor": "Wicked Movie Cast, Cynthia Erivo, Ariana Grande",
     "product_type": "Vinyl",
     "created_at": "2024-10-09T15:58:47+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Wicked"
@@ -2936,7 +2487,7 @@
     "vendor": "Katy Perry",
     "product_type": "CD",
     "created_at": "2024-07-12T13:28:37+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Katy Perry",
       "Music"
@@ -2948,26 +2499,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/CDStandard.jpg?v=1720764504"
   },
-  "49009002938657": {
-    "product_id": 9344029688097,
-    "title": "Midnights: Mahogany Edition Vinyl",
-    "handle": "midnights-mahogany-edition-vinyl",
-    "url": "https://umusic.my/products/midnights-mahogany-edition-vinyl",
-    "vendor": "Taylor Swift",
-    "product_type": "Vinyl",
-    "created_at": "2024-05-15T18:25:11+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Music",
-      "Taylor Swift"
-    ],
-    "variant_title": null,
-    "sku": "4579007",
-    "price": "180.00",
-    "compare_at_price": null,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/MidnightsMahoganyEditionVinyl.jpg?v=1756869968"
-  },
   "49008966861089": {
     "product_id": 9344002162977,
     "title": "Midnights: Blood Moon Edition Vinyl",
@@ -2976,7 +2507,7 @@
     "vendor": "Taylor Swift",
     "product_type": "Vinyl",
     "created_at": "2024-05-15T18:13:40+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -2996,7 +2527,7 @@
     "vendor": "Taylor Swift",
     "product_type": "CD",
     "created_at": "2024-05-15T17:06:18+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -3016,7 +2547,7 @@
     "vendor": "Katy Perry",
     "product_type": "Vinyl",
     "created_at": "2024-05-09T15:22:34+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Katy Perry",
       "Music"
@@ -3028,26 +2559,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/KatyPerry_OneOfTheBoys_VinylMockup_D2C_CloudyBlue.jpg?v=1715242444"
   },
-  "48937773564193": {
-    "product_id": 9320806449441,
-    "title": "yours truly 10 year anniversary: picture disc vinyl lp",
-    "handle": "yours-truly-10-year-anniversary-picture-disc-vinyl-lp",
-    "url": "https://umusic.my/products/yours-truly-10-year-anniversary-picture-disc-vinyl-lp",
-    "vendor": "Ariana Grande",
-    "product_type": "Vinyl",
-    "created_at": "2024-05-08T12:56:53+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "5825288",
-    "price": "180.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/yourstruly10th.jpg?v=1742199745"
-  },
   "48890949501217": {
     "product_id": 9302118138145,
     "title": "If I Can't Have Love, I Want Power - Limited Edition Purple LP",
@@ -3056,7 +2567,7 @@
     "vendor": "Halsey",
     "product_type": "Vinyl",
     "created_at": "2024-04-30T18:33:52+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Halsey",
       "Music"
@@ -3076,7 +2587,7 @@
     "vendor": "Various Artists",
     "product_type": "Vinyl",
     "created_at": "2024-04-30T19:05:49+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Disney",
       "Music"
@@ -3088,26 +2599,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/ToyStoryFavouritesLimitedDisney100RedVinylLP.jpg?v=1759201543"
   },
-  "54218077503777": {
-    "product_id": 10643261227297,
-    "title": "DAWN FM 2LP",
-    "handle": "dawn-fm-2lp",
-    "url": "https://umusic.my/products/dawn-fm-2lp",
-    "vendor": "The Weeknd",
-    "product_type": "Vinyl",
-    "created_at": "2026-10-29T09:44:38+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Music",
-      "The Weeknd"
-    ],
-    "variant_title": null,
-    "sku": "4540128",
-    "price": "190.00",
-    "compare_at_price": null,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/DAWNFM2LP.jpg?v=1793238387"
-  },
   "52570098139425": {
     "product_id": 10320020898081,
     "title": "WILD (Megan ver.)",
@@ -3116,7 +2607,7 @@
     "vendor": "KATSEYE",
     "product_type": "CD",
     "created_at": "2026-04-15T20:51:53+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KATSEYE",
       "Music",
@@ -3137,7 +2628,7 @@
     "vendor": "Noah Kahan",
     "product_type": "Vinyl",
     "created_at": "2026-01-29T14:23:00+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -3158,7 +2649,7 @@
     "vendor": "Noah Kahan",
     "product_type": "CD",
     "created_at": "2026-01-29T14:21:48+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -3179,7 +2670,7 @@
     "vendor": "Justin Bieber",
     "product_type": "Vinyl",
     "created_at": "2025-09-04T15:20:26+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Justin Bieber",
       "Music",
@@ -3200,7 +2691,7 @@
     "vendor": "5 Seconds Of Summer",
     "product_type": "Vinyl",
     "created_at": "2025-09-24T12:22:20+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "5SOS",
       "Music",
@@ -3221,7 +2712,7 @@
     "vendor": "Wicked Movie Cast, Cynthia Erivo, Ariana Grande",
     "product_type": "Vinyl",
     "created_at": "2025-09-17T17:03:55+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Wicked"
@@ -3241,7 +2732,7 @@
     "vendor": "Nine Inch Nails",
     "product_type": "Vinyl",
     "created_at": "2025-08-06T16:37:46+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NIN",
@@ -3262,7 +2753,7 @@
     "vendor": "Ernie Zakri",
     "product_type": "CD",
     "created_at": "2025-05-20T14:55:13+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Ernie Zakri",
       "Music"
@@ -3282,7 +2773,7 @@
     "vendor": "KATSEYE",
     "product_type": "CD",
     "created_at": "2025-05-07T11:45:43+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KATSEYE",
       "Music"
@@ -3302,7 +2793,7 @@
     "vendor": "KATSEYE",
     "product_type": "Vinyl",
     "created_at": "2025-05-07T11:53:07+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KATSEYE",
       "Music"
@@ -3322,7 +2813,7 @@
     "vendor": "KATSEYE",
     "product_type": "CD",
     "created_at": "2025-05-07T11:52:09+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KATSEYE",
       "Music"
@@ -3342,7 +2833,7 @@
     "vendor": "The Weeknd",
     "product_type": "CD",
     "created_at": "2025-04-24T14:35:53+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "The Weeknd"
@@ -3362,7 +2853,7 @@
     "vendor": "Kendrick Lamar",
     "product_type": "Vinyl",
     "created_at": "2025-04-17T16:51:06+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Kendrick Lamar",
       "Music"
@@ -3382,7 +2873,7 @@
     "vendor": "Selena Gomez, benny blanco",
     "product_type": "Vinyl",
     "created_at": "2025-02-22T18:07:49+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -3403,7 +2894,7 @@
     "vendor": "Lady Gaga",
     "product_type": "Vinyl",
     "created_at": "2024-09-25T14:21:53+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Lady Gaga",
       "Music"
@@ -3423,7 +2914,7 @@
     "vendor": "Justin Bieber",
     "product_type": "CD",
     "created_at": "2024-09-11T17:58:56+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Justin Bieber",
       "Music"
@@ -3443,7 +2934,7 @@
     "vendor": "Taylor Swift",
     "product_type": "CD",
     "created_at": "2024-05-15T17:20:17+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -3463,7 +2954,7 @@
     "vendor": "Various Artists",
     "product_type": "Vinyl",
     "created_at": "2024-04-30T19:04:07+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Disney",
       "Music"
@@ -3483,7 +2974,7 @@
     "vendor": "Ariana Grande",
     "product_type": "Vinyl",
     "created_at": "2024-04-02T00:03:29+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Ariana Grande",
       "Music"
@@ -3495,6 +2986,26 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/eternalsunshineD2CLP_3.jpg?v=1742199556"
   },
+  "54218129572129": {
+    "product_id": 10643308085537,
+    "title": "AFTER HOURS 2LP",
+    "handle": "after-hours-2lp",
+    "url": "https://umusic.my/products/after-hours-2lp",
+    "vendor": "The Weeknd",
+    "product_type": "Vinyl",
+    "created_at": "2026-10-29T09:50:08+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
+    "tags": [
+      "Music",
+      "The Weeknd"
+    ],
+    "variant_title": null,
+    "sku": "0881840",
+    "price": "220.00",
+    "compare_at_price": null,
+    "available": true,
+    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/AFTERHOURS2LP.jpg?v=1793238688"
+  },
   "53712006480161": {
     "product_id": 10588397338913,
     "title": "expectations - \u2018LA behavior' translucent blue cassette",
@@ -3503,7 +3014,7 @@
     "vendor": "Olivia Rodrigo",
     "product_type": "Cassette",
     "created_at": "2026-10-13T23:36:11+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Olivia Rodrigo",
@@ -3525,7 +3036,7 @@
     "vendor": "Troye Sivan",
     "product_type": "Vinyl",
     "created_at": "2026-08-13T19:13:20+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Pre-Order",
@@ -3546,7 +3057,7 @@
     "vendor": "Conan Gray",
     "product_type": "CD",
     "created_at": "2026-08-04T18:12:22+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Conan Gray",
       "Music",
@@ -3567,7 +3078,7 @@
     "vendor": "Sam Smith",
     "product_type": "Vinyl",
     "created_at": "2026-06-19T09:07:56+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Pre-Order",
@@ -3588,7 +3099,7 @@
     "vendor": "Gracie Abrams",
     "product_type": "CD",
     "created_at": "2026-05-11T23:53:44+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Gracie Abrams",
       "Music",
@@ -3609,7 +3120,7 @@
     "vendor": "KATSEYE",
     "product_type": "CD",
     "created_at": "2026-04-15T20:49:43+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KATSEYE",
       "Music",
@@ -3630,7 +3141,7 @@
     "vendor": "KATSEYE",
     "product_type": "Vinyl",
     "created_at": "2026-04-15T20:32:20+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KATSEYE",
       "Music",
@@ -3651,7 +3162,7 @@
     "vendor": "Billie Eilish",
     "product_type": "Vinyl",
     "created_at": "2026-03-27T00:57:19+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Billie Eilish",
       "Music",
@@ -3672,7 +3183,7 @@
     "vendor": "Niall Horan",
     "product_type": "Vinyl",
     "created_at": "2026-03-19T12:41:00+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -3693,7 +3204,7 @@
     "vendor": "ZAYN",
     "product_type": "Vinyl",
     "created_at": "2026-02-05T16:31:57+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW"
@@ -3713,7 +3224,7 @@
     "vendor": "ZAYN",
     "product_type": "Vinyl",
     "created_at": "2026-02-05T16:31:03+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW"
@@ -3733,7 +3244,7 @@
     "vendor": "Justin Bieber",
     "product_type": "Vinyl",
     "created_at": "2025-09-04T15:22:31+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Justin Bieber",
       "Music",
@@ -3754,7 +3265,7 @@
     "vendor": "5 Seconds Of Summer",
     "product_type": "CD",
     "created_at": "2025-10-16T17:30:23+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "5SOS",
       "Music",
@@ -3775,7 +3286,7 @@
     "vendor": "Wicked Movie Cast, Cynthia Erivo, Ariana Grande",
     "product_type": "Vinyl",
     "created_at": "2025-10-16T13:45:47+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Wicked"
@@ -3795,7 +3306,7 @@
     "vendor": "HUNTR/X (EJAE, Audrey Nuna, and REI AMI)",
     "product_type": "Vinyl",
     "created_at": "2025-08-22T08:26:03+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KPDH",
       "Music"
@@ -3815,7 +3326,7 @@
     "vendor": "Saja Boys (Andrew Choi, Neckwav, Danny Chung, Kevin Woo, and samUIL Lee)",
     "product_type": "Vinyl",
     "created_at": "2025-08-22T08:20:14+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KPDH",
       "Music"
@@ -3835,7 +3346,7 @@
     "vendor": "Sabrina Carpenter",
     "product_type": "Vinyl",
     "created_at": "2025-06-12T12:47:38+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Sabrina Carpenter"
@@ -3855,7 +3366,7 @@
     "vendor": "KATSEYE",
     "product_type": "CD",
     "created_at": "2025-05-07T11:51:22+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KATSEYE",
       "Music"
@@ -3875,7 +3386,7 @@
     "vendor": "Calum Hood",
     "product_type": "Vinyl",
     "created_at": "2025-04-11T11:48:00+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Calum Hood",
       "Music"
@@ -3895,7 +3406,7 @@
     "vendor": "Kendrick Lamar",
     "product_type": "Vinyl",
     "created_at": "2025-02-21T18:58:38+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Kendrick Lamar",
       "Music"
@@ -3915,7 +3426,7 @@
     "vendor": "Kendrick Lamar",
     "product_type": "Vinyl",
     "created_at": "2025-02-21T18:36:37+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Kendrick Lamar",
       "Music"
@@ -3935,7 +3446,7 @@
     "vendor": "Gracie Abrams",
     "product_type": "Vinyl",
     "created_at": "2024-10-18T12:34:55+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Gracie Abrams",
       "Music"
@@ -3955,7 +3466,7 @@
     "vendor": "Lana Del Rey",
     "product_type": "Vinyl",
     "created_at": "2024-05-16T10:15:38+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Lana Del Rey",
       "Music"
@@ -3975,7 +3486,7 @@
     "vendor": "Taylor Swift",
     "product_type": "CD",
     "created_at": "2024-05-15T17:48:13+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -3987,26 +3498,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/MidnightsMoonstoneBlueEditionCD.jpg?v=1756868062"
   },
-  "48937816555809": {
-    "product_id": 9320807104801,
-    "title": "positions cd",
-    "handle": "positions-cd",
-    "url": "https://umusic.my/products/positions-cd",
-    "vendor": "Ariana Grande",
-    "product_type": "CD",
-    "created_at": "2024-05-08T13:00:00+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "3535096",
-    "price": "40.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/PositionsCD.jpg?v=1779078234"
-  },
   "48809831334177": {
     "product_id": 9259395350817,
     "title": "LOOM Store Exclusive Pink Vinyl",
@@ -4015,7 +3506,7 @@
     "vendor": "Imagine Dragons",
     "product_type": "Vinyl",
     "created_at": "2024-04-22T18:26:06+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Imagine Dragons",
       "Music"
@@ -4027,26 +3518,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/LOOM-Store-Exclusive-Pink-Vinyl.jpg?v=1715142635"
   },
-  "48507464548641": {
-    "product_id": 9142932635937,
-    "title": "yes, and? cd single",
-    "handle": "yes-and-single-cd",
-    "url": "https://umusic.my/products/yes-and-single-cd",
-    "vendor": "Ariana Grande",
-    "product_type": "CD",
-    "created_at": "2024-04-01T23:49:27+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "6520471",
-    "price": "30.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/singleCDnew.jpg?v=1711988598"
-  },
   "54317974028577": {
     "product_id": 10673334812961,
     "title": "take me home (4 christmas) - exclusive red cassette",
@@ -4055,7 +3526,7 @@
     "vendor": "Olivia Rodrigo",
     "product_type": "Cassette",
     "created_at": "2026-11-03T00:33:08+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Olivia Rodrigo",
@@ -4068,26 +3539,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/takemehome_4christmas_-exclusiveredcassette.jpg?v=1793637502"
   },
-  "54218129572129": {
-    "product_id": 10643308085537,
-    "title": "AFTER HOURS 2LP",
-    "handle": "after-hours-2lp",
-    "url": "https://umusic.my/products/after-hours-2lp",
-    "vendor": "The Weeknd",
-    "product_type": "Vinyl",
-    "created_at": "2026-10-29T09:50:08+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Music",
-      "The Weeknd"
-    ],
-    "variant_title": null,
-    "sku": "0881840",
-    "price": "220.00",
-    "compare_at_price": null,
-    "available": true,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/AFTERHOURS2LP.jpg?v=1793238688"
-  },
   "52881888149793": {
     "product_id": 10381361447201,
     "title": "Day and Night - CD",
@@ -4096,7 +3547,7 @@
     "vendor": "Carly Rae Jepsen",
     "product_type": "CD",
     "created_at": "2026-06-23T11:00:38+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Carly Rae Jepsen",
       "Music",
@@ -4117,7 +3568,7 @@
     "vendor": "Carly Rae Jepsen",
     "product_type": "CD",
     "created_at": "2026-06-23T10:58:57+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Carly Rae Jepsen",
       "Music",
@@ -4138,7 +3589,7 @@
     "vendor": "Maroon 5",
     "product_type": "Vinyl",
     "created_at": "2026-05-27T21:29:39+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Maroon 5",
       "Music",
@@ -4159,7 +3610,7 @@
     "vendor": "KATSEYE",
     "product_type": "CD",
     "created_at": "2026-04-15T20:50:39+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KATSEYE",
       "Music",
@@ -4180,7 +3631,7 @@
     "vendor": "Noah Kahan",
     "product_type": "Vinyl",
     "created_at": "2026-04-02T10:50:33+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -4201,7 +3652,7 @@
     "vendor": "Niall Horan",
     "product_type": "Vinyl",
     "created_at": "2026-03-19T12:40:01+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -4222,7 +3673,7 @@
     "vendor": "The Pussycat Dolls",
     "product_type": "Vinyl",
     "created_at": "2026-03-12T12:28:48+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -4243,7 +3694,7 @@
     "vendor": "ZAYN",
     "product_type": "Vinyl",
     "created_at": "2026-02-14T12:13:50+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW"
@@ -4263,7 +3714,7 @@
     "vendor": "SIENNA SPIRO",
     "product_type": "Vinyl",
     "created_at": "2026-02-12T11:02:07+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -4284,7 +3735,7 @@
     "vendor": "Troye Sivan",
     "product_type": "CD",
     "created_at": "2025-12-04T19:15:03+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -4305,7 +3756,7 @@
     "vendor": "Ernie Zakri",
     "product_type": "Vinyl",
     "created_at": "2025-12-04T18:07:59+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Ernie Zakri",
       "Music",
@@ -4326,7 +3777,7 @@
     "vendor": "Wicked Movie Cast, Cynthia Erivo, Ariana Grande",
     "product_type": "CD",
     "created_at": "2025-11-12T10:28:47+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Wicked"
@@ -4346,7 +3797,7 @@
     "vendor": "Justin Bieber",
     "product_type": "CD",
     "created_at": "2025-10-30T13:08:46+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Justin Bieber",
       "Music"
@@ -4366,7 +3817,7 @@
     "vendor": "Justin Bieber",
     "product_type": "CD",
     "created_at": "2025-10-30T13:09:42+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Justin Bieber",
       "Music"
@@ -4386,7 +3837,7 @@
     "vendor": "Justin Bieber",
     "product_type": "CD",
     "created_at": "2025-10-30T13:02:36+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Justin Bieber",
       "Music"
@@ -4406,7 +3857,7 @@
     "vendor": "Aerosmith & YUNGBLUD",
     "product_type": "Vinyl",
     "created_at": "2025-09-17T11:43:40+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Aerosmith",
       "Music",
@@ -4427,7 +3878,7 @@
     "vendor": "Lewis Capaldi",
     "product_type": "Vinyl",
     "created_at": "2025-08-08T07:55:39+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Lewis Capaldi",
       "Music"
@@ -4447,7 +3898,7 @@
     "vendor": "Halsey",
     "product_type": "Vinyl",
     "created_at": "2025-08-01T15:31:20+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Halsey",
       "Music"
@@ -4467,7 +3918,7 @@
     "vendor": "Halsey",
     "product_type": "Vinyl",
     "created_at": "2025-08-01T15:30:25+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Halsey",
       "Music"
@@ -4487,7 +3938,7 @@
     "vendor": "Halsey",
     "product_type": "Vinyl",
     "created_at": "2025-08-01T15:29:23+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Halsey",
       "Music"
@@ -4507,7 +3958,7 @@
     "vendor": "Mark Keali'i Ho'omalu, Iam Tongi, Dan Romer",
     "product_type": "Vinyl",
     "created_at": "2025-06-18T17:01:36+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Disney",
       "Music"
@@ -4527,7 +3978,7 @@
     "vendor": "Conan Gray",
     "product_type": "CD",
     "created_at": "2025-06-12T18:02:44+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Conan Gray",
       "Music"
@@ -4547,7 +3998,7 @@
     "vendor": "The Weeknd",
     "product_type": "CD",
     "created_at": "2025-04-16T17:23:10+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "The Weeknd"
@@ -4567,7 +4018,7 @@
     "vendor": "Calum Hood",
     "product_type": "CD",
     "created_at": "2025-04-11T11:49:04+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Calum Hood",
       "Music"
@@ -4587,7 +4038,7 @@
     "vendor": "Selena Gomez, benny blanco",
     "product_type": "Vinyl",
     "created_at": "2025-02-22T18:06:43+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -4608,7 +4059,7 @@
     "vendor": "Kendrick Lamar",
     "product_type": "Vinyl",
     "created_at": "2025-02-21T18:56:32+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Kendrick Lamar",
       "Music"
@@ -4628,7 +4079,7 @@
     "vendor": "Kendrick Lamar",
     "product_type": "Vinyl",
     "created_at": "2025-02-21T18:35:50+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Kendrick Lamar",
       "Music"
@@ -4648,7 +4099,7 @@
     "vendor": "Shawn Mendes",
     "product_type": "Vinyl",
     "created_at": "2024-10-11T11:21:49+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -4669,7 +4120,7 @@
     "vendor": "Gracie Abrams",
     "product_type": "CD",
     "created_at": "2024-06-26T16:20:04+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Gracie Abrams",
       "Music"
@@ -4689,7 +4140,7 @@
     "vendor": "Taylor Swift",
     "product_type": "CD",
     "created_at": "2024-05-15T16:59:40+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -4709,7 +4160,7 @@
     "vendor": "The Beatles",
     "product_type": "CD",
     "created_at": "2024-05-08T17:38:01+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "The Beatles"
@@ -4729,7 +4180,7 @@
     "vendor": "Olivia Rodrigo",
     "product_type": "Vinyl",
     "created_at": "2026-10-09T11:19:50+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Olivia Rodrigo",
@@ -4750,7 +4201,7 @@
     "vendor": "Olivia Rodrigo",
     "product_type": "Vinyl",
     "created_at": "2026-10-09T10:56:51+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Olivia Rodrigo",
@@ -4771,7 +4222,7 @@
     "vendor": "Sam Smith",
     "product_type": "CD",
     "created_at": "2026-07-13T22:02:28+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Pre-Order",
@@ -4792,7 +4243,7 @@
     "vendor": "Carly Rae Jepsen",
     "product_type": "Vinyl",
     "created_at": "2026-06-23T10:57:47+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Carly Rae Jepsen",
       "Music",
@@ -4813,7 +4264,7 @@
     "vendor": "December 10",
     "product_type": "CD",
     "created_at": "2026-06-10T18:29:38+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "December 10",
       "Music",
@@ -4834,7 +4285,7 @@
     "vendor": "Ellie Goulding",
     "product_type": "CD",
     "created_at": "2026-06-02T21:37:43+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Ellie Goulding",
       "Music",
@@ -4855,7 +4306,7 @@
     "vendor": "Gracie Abrams",
     "product_type": "Vinyl",
     "created_at": "2026-05-11T23:55:09+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Gracie Abrams",
       "Music",
@@ -4876,7 +4327,7 @@
     "vendor": "Gracie Abrams",
     "product_type": "CD",
     "created_at": "2026-05-11T23:51:26+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Gracie Abrams",
       "Music",
@@ -4897,7 +4348,7 @@
     "vendor": "Lady Gaga",
     "product_type": "Vinyl",
     "created_at": "2026-05-08T16:42:59+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Lady Gaga",
       "Music"
@@ -4909,26 +4360,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/DawnofChromaticaVinylLP-Front.jpg?v=1778230250"
   },
-  "52613265391905": {
-    "product_id": 10332411363617,
-    "title": "thank u, next cd",
-    "handle": "thank-u-next-cd",
-    "url": "https://umusic.my/products/thank-u-next-cd",
-    "vendor": "Ariana Grande",
-    "product_type": "CD",
-    "created_at": "2026-04-28T14:49:34+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "7737803I",
-    "price": "40.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/thanku_nextCD.jpg?v=1779078144"
-  },
   "52613267521825": {
     "product_id": 10332411560225,
     "title": "thank u, next lp",
@@ -4937,7 +4368,7 @@
     "vendor": "Ariana Grande",
     "product_type": "Vinyl",
     "created_at": "2026-04-28T14:50:45+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Ariana Grande",
       "Music"
@@ -4957,7 +4388,7 @@
     "vendor": "Ariana Grande",
     "product_type": "Vinyl",
     "created_at": "2026-04-28T14:24:59+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Ariana Grande",
       "Music"
@@ -4977,7 +4408,7 @@
     "vendor": "KATSEYE",
     "product_type": "CD",
     "created_at": "2026-04-15T20:47:16+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KATSEYE",
       "Music",
@@ -4998,7 +4429,7 @@
     "vendor": "John Williams",
     "product_type": "Vinyl",
     "created_at": "2026-04-14T16:22:28+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Disney",
       "Music",
@@ -5019,7 +4450,7 @@
     "vendor": "Billie Eilish",
     "product_type": "CD",
     "created_at": "2026-04-02T12:01:06+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Billie Eilish",
       "Music"
@@ -5039,7 +4470,7 @@
     "vendor": "Niall Horan",
     "product_type": "Vinyl",
     "created_at": "2026-03-19T12:39:15+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -5060,7 +4491,7 @@
     "vendor": "Fujii Kaze",
     "product_type": "CD",
     "created_at": "2026-02-10T14:40:16+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Fujii Kaze",
       "Music",
@@ -5081,7 +4512,7 @@
     "vendor": "Fujii Kaze",
     "product_type": "CD",
     "created_at": "2026-02-10T14:39:37+08:00",
-    "updated_at": "2026-11-11T17:41:59+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Fujii Kaze",
       "Music",
@@ -5102,7 +4533,7 @@
     "vendor": "Fujii Kaze",
     "product_type": "CD",
     "created_at": "2026-02-10T14:38:53+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Fujii Kaze",
       "Music",
@@ -5123,7 +4554,7 @@
     "vendor": "Olivia Rodrigo",
     "product_type": "Vinyl",
     "created_at": "2026-01-08T14:38:17+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -5144,7 +4575,7 @@
     "vendor": "KPop Demon Hunters Cast, HUNTR/X, Saja Boys",
     "product_type": "Vinyl",
     "created_at": "2025-12-19T09:33:43+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KPDH",
       "Music",
@@ -5165,7 +4596,7 @@
     "vendor": "Justin Bieber",
     "product_type": "CD",
     "created_at": "2025-10-30T13:06:59+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Justin Bieber",
       "Music"
@@ -5185,7 +4616,7 @@
     "vendor": "Justin Bieber",
     "product_type": "CD",
     "created_at": "2025-10-30T12:26:59+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Justin Bieber",
       "Music"
@@ -5205,7 +4636,7 @@
     "vendor": "Lewis Capaldi",
     "product_type": "Vinyl",
     "created_at": "2025-10-24T12:55:13+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Lewis Capaldi",
       "Music",
@@ -5226,7 +4657,7 @@
     "vendor": "Rumi and Jinu (EJAE and Andrew Choi)",
     "product_type": "Vinyl",
     "created_at": "2025-09-05T18:04:27+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KPDH",
       "Music"
@@ -5246,7 +4677,7 @@
     "vendor": "HUNTR/X (EJAE, Audrey Nuna, and REI AMI)",
     "product_type": "Vinyl",
     "created_at": "2025-09-05T17:46:57+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KPDH",
       "Music"
@@ -5266,7 +4697,7 @@
     "vendor": "Rihanna",
     "product_type": "Vinyl",
     "created_at": "2025-09-02T16:25:19+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Rihanna"
@@ -5286,7 +4717,7 @@
     "vendor": "Nine Inch Nails",
     "product_type": "CD",
     "created_at": "2025-08-06T16:20:29+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "NIN",
@@ -5307,7 +4738,7 @@
     "vendor": "Conan Gray",
     "product_type": "Vinyl",
     "created_at": "2025-06-12T18:05:38+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Conan Gray",
       "Music"
@@ -5327,7 +4758,7 @@
     "vendor": "Lorde",
     "product_type": "Vinyl",
     "created_at": "2025-06-11T17:43:37+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Lorde",
       "Music"
@@ -5347,7 +4778,7 @@
     "vendor": "YUNGBLUD",
     "product_type": "Vinyl",
     "created_at": "2025-06-11T15:29:48+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -5368,7 +4799,7 @@
     "vendor": "KATSEYE",
     "product_type": "Vinyl",
     "created_at": "2025-05-07T11:49:00+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "KATSEYE",
       "Music"
@@ -5388,7 +4819,7 @@
     "vendor": "Jonas Brothers",
     "product_type": "CD",
     "created_at": "2025-04-17T15:35:37+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Joe Jonas",
       "Jonas Brothers",
@@ -5411,7 +4842,7 @@
     "vendor": "Calum Scott",
     "product_type": "Vinyl",
     "created_at": "2025-04-17T13:07:19+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Calum Scott",
       "Music"
@@ -5431,7 +4862,7 @@
     "vendor": "Calum Hood",
     "product_type": "Vinyl",
     "created_at": "2025-04-11T11:46:32+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Calum Hood",
       "Music"
@@ -5451,7 +4882,7 @@
     "vendor": "Kendrick Lamar",
     "product_type": "CD",
     "created_at": "2025-02-21T18:55:33+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Kendrick Lamar",
       "Music"
@@ -5471,7 +4902,7 @@
     "vendor": "Sabrina Carpenter",
     "product_type": "Vinyl",
     "created_at": "2024-09-23T16:41:48+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -5492,7 +4923,7 @@
     "vendor": "Post Malone",
     "product_type": "Vinyl",
     "created_at": "2024-09-13T14:54:45+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Post Malone"
@@ -5512,7 +4943,7 @@
     "vendor": "The Beatles",
     "product_type": "Vinyl",
     "created_at": "2024-09-12T19:31:16+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "The Beatles"
@@ -5532,7 +4963,7 @@
     "vendor": "Sam Smith",
     "product_type": "Vinyl",
     "created_at": "2024-09-11T12:20:57+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Sam Smith"
@@ -5552,7 +4983,7 @@
     "vendor": "Sam Smith",
     "product_type": "Vinyl",
     "created_at": "2024-09-11T12:08:51+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Sam Smith"
@@ -5572,7 +5003,7 @@
     "vendor": "Taylor Swift",
     "product_type": "CD",
     "created_at": "2024-05-15T17:59:52+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -5592,7 +5023,7 @@
     "vendor": "The Beatles",
     "product_type": "Vinyl",
     "created_at": "2024-05-08T17:24:40+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Music",
       "The Beatles"
@@ -5604,26 +5035,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/BlueAlbumColor3LP.jpg?v=1715268392"
   },
-  "48937800270113": {
-    "product_id": 9320806711585,
-    "title": "positions deluxe cd",
-    "handle": "position-deluxe-cd",
-    "url": "https://umusic.my/products/position-deluxe-cd",
-    "vendor": "Ariana Grande",
-    "product_type": "CD",
-    "created_at": "2024-05-08T12:58:43+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "3586456",
-    "price": "70.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/PositionsDeluxeCD.jpg?v=1779078290"
-  },
   "48507561148705": {
     "product_id": 9142959767841,
     "title": "eternal sunshine (exclusive cover no. 4) cd",
@@ -5632,7 +5043,7 @@
     "vendor": "Ariana Grande",
     "product_type": "CD",
     "created_at": "2024-04-01T23:57:17+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Ariana Grande",
       "Music"
@@ -5652,7 +5063,7 @@
     "vendor": "Metallica",
     "product_type": "Vinyl",
     "created_at": "2024-03-14T14:14:25+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Metallica",
       "Music"
@@ -5672,7 +5083,7 @@
     "vendor": "Metallica",
     "product_type": "Vinyl",
     "created_at": "2024-03-14T13:31:34+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:17+08:00",
     "tags": [
       "Metallica",
       "Music"
@@ -5692,7 +5103,7 @@
     "vendor": "The Weeknd",
     "product_type": "CD",
     "created_at": "2026-11-07T00:50:15+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Weeknd"
@@ -5712,7 +5123,7 @@
     "vendor": "The Weeknd",
     "product_type": "Vinyl",
     "created_at": "2026-10-29T09:39:10+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Weeknd"
@@ -5732,7 +5143,7 @@
     "vendor": "Troye Sivan",
     "product_type": "CD",
     "created_at": "2026-08-13T19:12:34+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Pre-Order",
@@ -5753,7 +5164,7 @@
     "vendor": "Troye Sivan",
     "product_type": "CD",
     "created_at": "2026-08-13T19:03:48+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Pre-Order",
@@ -5774,7 +5185,7 @@
     "vendor": "Conan Gray",
     "product_type": "Vinyl",
     "created_at": "2026-08-04T18:15:48+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Conan Gray",
       "Music",
@@ -5795,7 +5206,7 @@
     "vendor": "SIENNA SPIRO",
     "product_type": "Vinyl",
     "created_at": "2026-06-22T23:40:20+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Pre-Order",
@@ -5816,7 +5227,7 @@
     "vendor": "December 10",
     "product_type": "CD",
     "created_at": "2026-06-10T18:27:20+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "December 10",
       "Music",
@@ -5837,7 +5248,7 @@
     "vendor": "December 10",
     "product_type": "Vinyl",
     "created_at": "2026-06-10T18:25:14+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "December 10",
       "Music",
@@ -5858,7 +5269,7 @@
     "vendor": "Ellie Goulding",
     "product_type": "Vinyl",
     "created_at": "2026-06-02T21:44:32+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Ellie Goulding",
       "Music",
@@ -5879,7 +5290,7 @@
     "vendor": "Selena Gomez",
     "product_type": "Vinyl",
     "created_at": "2026-05-29T22:03:22+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -5900,7 +5311,7 @@
     "vendor": "Maroon 5",
     "product_type": "Vinyl",
     "created_at": "2026-05-21T23:57:36+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Maroon 5",
       "Music",
@@ -5921,7 +5332,7 @@
     "vendor": "Lady Gaga",
     "product_type": "Vinyl",
     "created_at": "2026-05-08T16:58:19+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Lady Gaga",
       "Music"
@@ -5941,7 +5352,7 @@
     "vendor": "Lady Gaga",
     "product_type": "CD",
     "created_at": "2026-05-08T16:40:53+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Lady Gaga",
       "Music"
@@ -5961,7 +5372,7 @@
     "vendor": "Lady Gaga",
     "product_type": "CD",
     "created_at": "2026-05-08T16:40:09+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Lady Gaga",
       "Music"
@@ -5981,7 +5392,7 @@
     "vendor": "KATSEYE",
     "product_type": "CD",
     "created_at": "2026-04-15T20:38:15+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "KATSEYE",
       "Music",
@@ -6002,7 +5413,7 @@
     "vendor": "KATSEYE",
     "product_type": "CD",
     "created_at": "2026-04-15T20:36:57+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "KATSEYE",
       "Music",
@@ -6023,7 +5434,7 @@
     "vendor": "KATSEYE",
     "product_type": "Vinyl",
     "created_at": "2026-04-15T20:34:14+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "KATSEYE",
       "Music",
@@ -6044,7 +5455,7 @@
     "vendor": "The Pussycat Dolls",
     "product_type": "CD",
     "created_at": "2026-03-12T12:27:25+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -6065,7 +5476,7 @@
     "vendor": "The Pussycat Dolls",
     "product_type": "Vinyl",
     "created_at": "2026-03-12T12:23:07+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -6086,7 +5497,7 @@
     "vendor": "Noah Kahan",
     "product_type": "Vinyl",
     "created_at": "2026-02-19T09:02:35+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -6107,7 +5518,7 @@
     "vendor": "ZAYN",
     "product_type": "CD",
     "created_at": "2026-02-05T16:32:47+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NEW"
@@ -6127,7 +5538,7 @@
     "vendor": "Nick Jonas",
     "product_type": "CD",
     "created_at": "2025-12-01T22:37:44+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Jonas Brothers",
       "Music",
@@ -6149,7 +5560,7 @@
     "vendor": "Lewis Capaldi",
     "product_type": "CD",
     "created_at": "2025-10-24T12:55:47+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Lewis Capaldi",
       "Music",
@@ -6170,7 +5581,7 @@
     "vendor": "Rihanna",
     "product_type": "Vinyl",
     "created_at": "2025-09-02T16:16:52+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Rihanna"
@@ -6190,7 +5601,7 @@
     "vendor": "Rihanna",
     "product_type": "Vinyl",
     "created_at": "2025-09-02T16:12:34+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Rihanna"
@@ -6210,7 +5621,7 @@
     "vendor": "Rihanna",
     "product_type": "Vinyl",
     "created_at": "2025-09-02T15:39:05+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Rihanna"
@@ -6230,7 +5641,7 @@
     "vendor": "Nine Inch Nails",
     "product_type": "CD",
     "created_at": "2025-08-06T16:36:38+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NIN",
@@ -6251,7 +5662,7 @@
     "vendor": "Joe Jonas",
     "product_type": "Vinyl",
     "created_at": "2025-08-04T10:45:48+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Joe Jonas",
       "Jonas Brothers",
@@ -6272,7 +5683,7 @@
     "vendor": "Maroon 5",
     "product_type": "Vinyl",
     "created_at": "2025-06-25T15:47:53+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Maroon 5",
       "Music"
@@ -6292,7 +5703,7 @@
     "vendor": "Maroon 5",
     "product_type": "CD",
     "created_at": "2025-06-25T15:48:48+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Maroon 5",
       "Music"
@@ -6312,7 +5723,7 @@
     "vendor": "mgk",
     "product_type": "Vinyl",
     "created_at": "2025-06-13T16:13:09+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "mgk",
@@ -6333,7 +5744,7 @@
     "vendor": "mgk",
     "product_type": "Vinyl",
     "created_at": "2025-06-13T16:12:33+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "mgk",
@@ -6354,7 +5765,7 @@
     "vendor": "mgk",
     "product_type": "CD",
     "created_at": "2025-06-13T16:11:26+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "mgk",
@@ -6375,7 +5786,7 @@
     "vendor": "Fujii Kaze",
     "product_type": "CD",
     "created_at": "2025-06-13T08:15:26+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music"
     ],
@@ -6394,7 +5805,7 @@
     "vendor": "Lorde",
     "product_type": "CD",
     "created_at": "2025-06-11T15:55:26+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Lorde",
       "Music"
@@ -6414,7 +5825,7 @@
     "vendor": "YUNGBLUD",
     "product_type": "CD",
     "created_at": "2025-06-11T15:28:55+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -6435,7 +5846,7 @@
     "vendor": "Chappell Roan",
     "product_type": "Vinyl",
     "created_at": "2025-05-19T15:11:54+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Chappell Roan",
       "Music"
@@ -6455,7 +5866,7 @@
     "vendor": "Chappell Roan",
     "product_type": "Vinyl",
     "created_at": "2025-05-19T15:01:46+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Chappell Roan",
       "Music"
@@ -6475,7 +5886,7 @@
     "vendor": "Doechii",
     "product_type": "Vinyl",
     "created_at": "2025-04-19T18:50:02+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Doechii",
       "Music"
@@ -6495,7 +5906,7 @@
     "vendor": "Jonas Brothers",
     "product_type": "Vinyl",
     "created_at": "2025-04-17T15:36:38+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Joe Jonas",
       "Jonas Brothers",
@@ -6518,7 +5929,7 @@
     "vendor": "Sabrina Carpenter",
     "product_type": "Vinyl",
     "created_at": "2024-11-11T18:45:02+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Sabrina Carpenter"
@@ -6538,7 +5949,7 @@
     "vendor": "Sabrina Carpenter",
     "product_type": "Vinyl",
     "created_at": "2024-11-11T18:46:47+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Sabrina Carpenter"
@@ -6558,7 +5969,7 @@
     "vendor": "Hozier",
     "product_type": "CD",
     "created_at": "2024-11-11T18:40:41+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Hozier",
       "Music"
@@ -6578,7 +5989,7 @@
     "vendor": "Hozier",
     "product_type": "Vinyl",
     "created_at": "2024-10-17T16:27:28+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Hozier",
       "Music"
@@ -6598,7 +6009,7 @@
     "vendor": "FINNEAS",
     "product_type": "Vinyl",
     "created_at": "2024-10-10T12:14:49+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "FINNEAS",
@@ -6619,7 +6030,7 @@
     "vendor": "The Beatles",
     "product_type": "Vinyl",
     "created_at": "2024-09-12T19:40:09+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Beatles"
@@ -6639,7 +6050,7 @@
     "vendor": "Justin Bieber",
     "product_type": "CD",
     "created_at": "2024-09-11T17:50:59+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Justin Bieber",
       "Music"
@@ -6659,7 +6070,7 @@
     "vendor": "Sam Smith",
     "product_type": "CD",
     "created_at": "2024-09-11T12:22:15+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Sam Smith"
@@ -6679,7 +6090,7 @@
     "vendor": "Sam Smith",
     "product_type": "CD",
     "created_at": "2024-09-11T12:13:01+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Sam Smith"
@@ -6699,7 +6110,7 @@
     "vendor": "Post Malone",
     "product_type": "Vinyl",
     "created_at": "2024-06-27T17:21:16+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Post Malone"
@@ -6719,7 +6130,7 @@
     "vendor": "Camila Cabello",
     "product_type": "Vinyl",
     "created_at": "2024-06-26T16:37:46+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "Camila Cabello",
@@ -6740,7 +6151,7 @@
     "vendor": "Camila Cabello",
     "product_type": "Vinyl",
     "created_at": "2024-06-26T16:35:55+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "Camila Cabello",
@@ -6761,7 +6172,7 @@
     "vendor": "The Beatles",
     "product_type": "Vinyl",
     "created_at": "2024-05-08T17:39:07+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Beatles"
@@ -6781,7 +6192,7 @@
     "vendor": "The Beatles",
     "product_type": "CD",
     "created_at": "2024-05-08T16:39:19+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Beatles"
@@ -6801,7 +6212,7 @@
     "vendor": "Katy Perry",
     "product_type": "Vinyl",
     "created_at": "2024-05-09T15:24:10+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Katy Perry",
       "Music"
@@ -6821,7 +6232,7 @@
     "vendor": "Katy Perry",
     "product_type": "Vinyl",
     "created_at": "2024-05-09T15:21:25+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Katy Perry",
       "Music"
@@ -6841,7 +6252,7 @@
     "vendor": "Imagine Dragons",
     "product_type": "Vinyl",
     "created_at": "2024-05-06T17:33:49+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Imagine Dragons",
       "Music"
@@ -6861,7 +6272,7 @@
     "vendor": "Troye Sivan",
     "product_type": "CD",
     "created_at": "2024-04-24T02:03:24+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -6882,7 +6293,7 @@
     "vendor": "Troye Sivan",
     "product_type": "CD",
     "created_at": "2024-04-24T02:04:28+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -6903,7 +6314,7 @@
     "vendor": "ZAYN",
     "product_type": "Vinyl",
     "created_at": "2024-04-02T13:06:11+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music"
     ],
@@ -6922,7 +6333,7 @@
     "vendor": "ZAYN",
     "product_type": "CD",
     "created_at": "2024-04-02T12:43:53+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music"
     ],
@@ -6941,7 +6352,7 @@
     "vendor": "Metallica",
     "product_type": "Vinyl",
     "created_at": "2024-03-14T14:41:12+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Metallica",
       "Music"
@@ -6961,7 +6372,7 @@
     "vendor": "Metallica",
     "product_type": "Vinyl",
     "created_at": "2024-03-14T14:24:55+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Metallica",
       "Music"
@@ -6981,7 +6392,7 @@
     "vendor": "Metallica",
     "product_type": "Vinyl",
     "created_at": "2024-03-14T14:00:29+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Metallica",
       "Music"
@@ -7001,7 +6412,7 @@
     "vendor": "Metallica",
     "product_type": "Vinyl",
     "created_at": "2024-03-14T12:50:20+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Metallica",
       "Music"
@@ -7021,7 +6432,7 @@
     "vendor": "Mariah Carey",
     "product_type": "Vinyl",
     "created_at": "2026-08-20T11:42:52+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Mariah Carey",
       "Music",
@@ -7042,7 +6453,7 @@
     "vendor": "Mariah Carey",
     "product_type": "Vinyl",
     "created_at": "2026-08-20T11:42:00+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Mariah Carey",
       "Music",
@@ -7063,7 +6474,7 @@
     "vendor": "Troye Sivan",
     "product_type": "Vinyl",
     "created_at": "2026-08-13T19:08:05+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Pre-Order",
@@ -7084,7 +6495,7 @@
     "vendor": "Gracie Abrams",
     "product_type": "Vinyl",
     "created_at": "2026-07-13T21:43:24+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Gracie Abrams",
       "Music",
@@ -7105,7 +6516,7 @@
     "vendor": "Jay Chou",
     "product_type": "Vinyl",
     "created_at": "2026-07-06T11:06:34+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Jay Chou",
       "Music",
@@ -7126,7 +6537,7 @@
     "vendor": "Carly Rae Jepsen",
     "product_type": "Vinyl",
     "created_at": "2026-06-23T10:59:47+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Carly Rae Jepsen",
       "Music",
@@ -7147,7 +6558,7 @@
     "vendor": "Sam Smith",
     "product_type": "Vinyl",
     "created_at": "2026-06-19T09:07:24+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Pre-Order",
@@ -7168,7 +6579,7 @@
     "vendor": "Sam Smith",
     "product_type": "CD",
     "created_at": "2026-06-19T09:06:45+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Pre-Order",
@@ -7181,27 +6592,6 @@
     "available": false,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/HazelEyesCD.jpg?v=1781842503"
   },
-  "52865958150433": {
-    "product_id": 10378177872161,
-    "title": "petal exclusive recycled black cassette",
-    "handle": "petal-exclusive-recycled-black-cassette",
-    "url": "https://umusic.my/products/petal-exclusive-recycled-black-cassette",
-    "vendor": "Ariana Grande",
-    "product_type": "Cassette",
-    "created_at": "2026-06-19T07:48:44+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music",
-      "NEW"
-    ],
-    "variant_title": null,
-    "sku": "5792385",
-    "price": "70.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/petalexclusiverecycledblackcassette.jpg?v=1781827961"
-  },
   "52827297284385": {
     "product_id": 10370036891937,
     "title": "On Your Side Mint Green Vinyl",
@@ -7210,7 +6600,7 @@
     "vendor": "December 10",
     "product_type": "Vinyl",
     "created_at": "2026-06-10T18:26:24+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "December 10",
       "Music",
@@ -7223,26 +6613,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/OnYourSideMintGreenVinyl.jpg?v=1781087838"
   },
-  "48507482407201": {
-    "product_id": 9142939484449,
-    "title": "eternal sunshine cd",
-    "handle": "eternal-sunshine-cd",
-    "url": "https://umusic.my/products/eternal-sunshine-cd",
-    "vendor": "Ariana Grande",
-    "product_type": "CD",
-    "created_at": "2024-04-01T23:51:17+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "6508149",
-    "price": "80.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/Normal-CD-New.jpg?v=1712068587"
-  },
   "52795460649249": {
     "product_id": 10364089205025,
     "title": "I Know Too Much Pearl Sunrise Vinyl",
@@ -7251,7 +6621,7 @@
     "vendor": "Ellie Goulding",
     "product_type": "Vinyl",
     "created_at": "2026-06-02T21:42:56+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Ellie Goulding",
       "Music",
@@ -7272,7 +6642,7 @@
     "vendor": "Maroon 5",
     "product_type": "Vinyl",
     "created_at": "2026-05-27T21:26:26+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Maroon 5",
       "Music",
@@ -7293,7 +6663,7 @@
     "vendor": "Maroon 5",
     "product_type": "Vinyl",
     "created_at": "2026-05-21T23:57:02+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Maroon 5",
       "Music",
@@ -7314,7 +6684,7 @@
     "vendor": "Maroon 5",
     "product_type": "Vinyl",
     "created_at": "2026-05-21T23:38:56+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Maroon 5",
       "Music",
@@ -7335,7 +6705,7 @@
     "vendor": "KPop Demon Hunters Cast, HUNTR/X, Saja Boys",
     "product_type": "Vinyl",
     "created_at": "2026-05-19T16:54:10+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "KPDH",
       "Music",
@@ -7356,7 +6726,7 @@
     "vendor": "KPop Demon Hunters Cast, HUNTR/X, Saja Boys",
     "product_type": "CD",
     "created_at": "2026-05-19T16:53:01+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "KPDH",
       "Music",
@@ -7377,7 +6747,7 @@
     "vendor": "Gracie Abrams",
     "product_type": "Cassette",
     "created_at": "2026-05-11T23:57:50+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Gracie Abrams",
       "Music",
@@ -7398,7 +6768,7 @@
     "vendor": "Gracie Abrams",
     "product_type": "Cassette",
     "created_at": "2026-05-11T23:57:00+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Gracie Abrams",
       "Music",
@@ -7419,7 +6789,7 @@
     "vendor": "Lady Gaga",
     "product_type": "CD",
     "created_at": "2026-05-08T16:41:40+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Lady Gaga",
       "Music"
@@ -7439,7 +6809,7 @@
     "vendor": "Noah Kahan",
     "product_type": "Vinyl",
     "created_at": "2026-05-07T18:15:36+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -7460,7 +6830,7 @@
     "vendor": "Noah Kahan",
     "product_type": "CD",
     "created_at": "2026-05-07T18:14:58+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -7481,7 +6851,7 @@
     "vendor": "Noah Kahan",
     "product_type": "Vinyl",
     "created_at": "2026-05-07T18:13:33+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -7502,7 +6872,7 @@
     "vendor": "Noah Kahan",
     "product_type": "Vinyl",
     "created_at": "2026-05-07T18:12:13+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -7523,7 +6893,7 @@
     "vendor": "Noah Kahan",
     "product_type": "Vinyl",
     "created_at": "2026-05-07T18:10:57+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -7544,7 +6914,7 @@
     "vendor": "Noah Kahan",
     "product_type": "CD",
     "created_at": "2026-05-07T18:09:57+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -7565,7 +6935,7 @@
     "vendor": "Noah Kahan",
     "product_type": "Vinyl",
     "created_at": "2026-05-07T18:09:17+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -7586,7 +6956,7 @@
     "vendor": "FLO",
     "product_type": "Vinyl",
     "created_at": "2026-05-07T17:44:21+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "FLO",
       "Music",
@@ -7607,7 +6977,7 @@
     "vendor": "FLO",
     "product_type": "CD",
     "created_at": "2026-05-07T17:43:28+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "FLO",
       "Music",
@@ -7628,7 +6998,7 @@
     "vendor": "Rolling Stones",
     "product_type": "Vinyl",
     "created_at": "2026-05-06T15:38:55+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -7649,7 +7019,7 @@
     "vendor": "Rolling Stones",
     "product_type": "Vinyl",
     "created_at": "2026-05-06T15:37:46+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -7670,7 +7040,7 @@
     "vendor": "Rolling Stones",
     "product_type": "CD",
     "created_at": "2026-05-06T15:34:08+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -7691,7 +7061,7 @@
     "vendor": "Rolling Stones",
     "product_type": "CD",
     "created_at": "2026-05-06T14:06:33+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Rolling Stones"
@@ -7711,7 +7081,7 @@
     "vendor": "Rolling Stones",
     "product_type": "Vinyl",
     "created_at": "2026-05-06T14:05:47+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Rolling Stones"
@@ -7731,7 +7101,7 @@
     "vendor": "Rolling Stones",
     "product_type": "CD",
     "created_at": "2026-05-06T14:04:49+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Rolling Stones"
@@ -7751,7 +7121,7 @@
     "vendor": "Rolling Stones",
     "product_type": "CD+Blu-ray",
     "created_at": "2026-05-06T14:02:06+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Rolling Stones"
@@ -7771,7 +7141,7 @@
     "vendor": "Rolling Stones",
     "product_type": "Vinyl",
     "created_at": "2026-05-06T14:00:19+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Rolling Stones"
@@ -7791,7 +7161,7 @@
     "vendor": "Rolling Stones",
     "product_type": "Vinyl",
     "created_at": "2026-05-06T13:59:37+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Rolling Stones"
@@ -7811,7 +7181,7 @@
     "vendor": "Rolling Stones",
     "product_type": "Vinyl",
     "created_at": "2026-05-06T12:36:00+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Rolling Stones"
@@ -7831,7 +7201,7 @@
     "vendor": "Rolling Stones",
     "product_type": "Vinyl",
     "created_at": "2026-05-06T12:35:12+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Rolling Stones"
@@ -7851,7 +7221,7 @@
     "vendor": "Rolling Stones",
     "product_type": "CD",
     "created_at": "2026-05-06T12:34:18+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Rolling Stones"
@@ -7871,7 +7241,7 @@
     "vendor": "Rolling Stones",
     "product_type": "Vinyl",
     "created_at": "2026-05-06T12:16:46+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Rolling Stones"
@@ -7891,7 +7261,7 @@
     "vendor": "Rolling Stones",
     "product_type": "CD",
     "created_at": "2026-05-06T12:15:47+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Rolling Stones"
@@ -7911,7 +7281,7 @@
     "vendor": "Rolling Stones",
     "product_type": "CD+Blu-ray",
     "created_at": "2026-05-06T12:06:31+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Rolling Stones"
@@ -7931,7 +7301,7 @@
     "vendor": "Rolling Stones",
     "product_type": "CD+DVD",
     "created_at": "2026-05-06T11:57:55+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Rolling Stones"
@@ -7951,7 +7321,7 @@
     "vendor": "Rolling Stones",
     "product_type": "Vinyl",
     "created_at": "2026-05-06T11:41:20+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Rolling Stones"
@@ -7963,27 +7333,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/GRRRLive_BlackVinyl3LP.jpg?v=1778039134"
   },
-  "52616018395425": {
-    "product_id": 10333061382433,
-    "title": "petal cassette",
-    "handle": "petal-cassette",
-    "url": "https://umusic.my/products/petal-cassette",
-    "vendor": "Ariana Grande",
-    "product_type": "Cassette",
-    "created_at": "2026-04-29T13:07:04+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music",
-      "NEW"
-    ],
-    "variant_title": null,
-    "sku": "5792384",
-    "price": "70.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/petalcassette.jpg?v=1777439405"
-  },
   "52570086768929": {
     "product_id": 10320017916193,
     "title": "WILD (Sophia ver.)",
@@ -7992,7 +7341,7 @@
     "vendor": "KATSEYE",
     "product_type": "CD",
     "created_at": "2026-04-15T20:46:20+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "KATSEYE",
       "Music",
@@ -8013,7 +7362,7 @@
     "vendor": "KATSEYE",
     "product_type": "CD",
     "created_at": "2026-04-15T20:40:53+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "KATSEYE",
       "Music",
@@ -8034,7 +7383,7 @@
     "vendor": "KATSEYE",
     "product_type": "CD",
     "created_at": "2026-04-15T20:39:36+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "KATSEYE",
       "Music",
@@ -8055,7 +7404,7 @@
     "vendor": "Maroon 5",
     "product_type": "Vinyl",
     "created_at": "2026-04-13T12:44:37+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Maroon 5",
       "Music",
@@ -8076,7 +7425,7 @@
     "vendor": "Maroon 5",
     "product_type": "Vinyl",
     "created_at": "2026-04-13T12:43:19+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Maroon 5",
       "Music",
@@ -8097,7 +7446,7 @@
     "vendor": "Maroon 5",
     "product_type": "Vinyl",
     "created_at": "2026-04-13T12:42:22+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Maroon 5",
       "Music",
@@ -8118,7 +7467,7 @@
     "vendor": "Akon",
     "product_type": "Vinyl",
     "created_at": "2026-04-10T16:21:23+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Akon",
       "Music",
@@ -8139,7 +7488,7 @@
     "vendor": "Black Eyed Peas",
     "product_type": "Vinyl",
     "created_at": "2026-04-10T15:56:36+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Black Eyed Peas",
       "Music",
@@ -8160,7 +7509,7 @@
     "vendor": "Niall Horan",
     "product_type": "Vinyl",
     "created_at": "2026-04-09T11:49:12+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -8181,7 +7530,7 @@
     "vendor": "Billie Eilish",
     "product_type": "CD",
     "created_at": "2026-04-02T12:10:48+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Billie Eilish",
       "Music"
@@ -8201,7 +7550,7 @@
     "vendor": "Billie Eilish",
     "product_type": "Vinyl",
     "created_at": "2026-04-02T12:11:36+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Billie Eilish",
       "Music"
@@ -8221,7 +7570,7 @@
     "vendor": "SIENNA SPIRO",
     "product_type": "Vinyl",
     "created_at": "2026-03-13T10:51:40+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -8242,7 +7591,7 @@
     "vendor": "The Pussycat Dolls",
     "product_type": "Vinyl",
     "created_at": "2026-03-12T12:28:07+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -8263,7 +7612,7 @@
     "vendor": "The Pussycat Dolls",
     "product_type": "CD",
     "created_at": "2026-03-12T12:21:48+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -8284,7 +7633,7 @@
     "vendor": "Nick Jonas",
     "product_type": "Vinyl",
     "created_at": "2025-12-01T22:38:56+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Jonas Brothers",
       "Music",
@@ -8306,7 +7655,7 @@
     "vendor": "Niall Horan",
     "product_type": "Vinyl",
     "created_at": "2025-11-27T11:45:23+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Niall Horan"
@@ -8326,7 +7675,7 @@
     "vendor": "Niall Horan",
     "product_type": "CD",
     "created_at": "2025-11-27T11:44:25+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Niall Horan"
@@ -8346,7 +7695,7 @@
     "vendor": "Aerosmith & YUNGBLUD",
     "product_type": "Vinyl",
     "created_at": "2025-09-17T11:44:59+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NEW",
@@ -8367,7 +7716,7 @@
     "vendor": "Aerosmith & YUNGBLUD",
     "product_type": "Vinyl",
     "created_at": "2025-09-17T11:42:17+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Aerosmith",
       "Music",
@@ -8389,7 +7738,7 @@
     "vendor": "Aerosmith & YUNGBLUD",
     "product_type": "CD",
     "created_at": "2025-09-17T11:46:05+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Aerosmith",
       "Music",
@@ -8411,7 +7760,7 @@
     "vendor": "Rihanna",
     "product_type": "Vinyl",
     "created_at": "2025-09-02T16:24:50+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Rihanna"
@@ -8431,7 +7780,7 @@
     "vendor": "Rihanna",
     "product_type": "Vinyl",
     "created_at": "2025-09-02T15:31:23+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Rihanna"
@@ -8451,7 +7800,7 @@
     "vendor": "Rihanna",
     "product_type": "Vinyl",
     "created_at": "2025-09-02T12:16:42+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Rihanna"
@@ -8471,7 +7820,7 @@
     "vendor": "Lewis Capaldi",
     "product_type": "CD",
     "created_at": "2025-08-08T07:53:54+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Lewis Capaldi",
       "Music"
@@ -8491,7 +7840,7 @@
     "vendor": "Lewis Capaldi",
     "product_type": "Vinyl",
     "created_at": "2025-08-08T07:54:49+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Lewis Capaldi",
       "Music"
@@ -8511,7 +7860,7 @@
     "vendor": "Nine Inch Nails",
     "product_type": "Vinyl",
     "created_at": "2025-08-06T16:38:42+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "NIN",
@@ -8532,7 +7881,7 @@
     "vendor": "Doechii",
     "product_type": "Vinyl",
     "created_at": "2025-07-23T17:29:54+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Doechii",
       "Music"
@@ -8552,7 +7901,7 @@
     "vendor": "Doechii",
     "product_type": "Vinyl",
     "created_at": "2025-07-23T17:26:58+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Doechii",
       "Music"
@@ -8572,7 +7921,7 @@
     "vendor": "HAIM",
     "product_type": "Vinyl",
     "created_at": "2025-07-02T18:15:55+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "HAIM",
       "Music"
@@ -8592,7 +7941,7 @@
     "vendor": "HAIM",
     "product_type": "Vinyl",
     "created_at": "2025-07-02T18:14:27+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "HAIM",
       "Music"
@@ -8612,7 +7961,7 @@
     "vendor": "YUNGBLUD",
     "product_type": "CD",
     "created_at": "2025-06-19T16:23:29+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -8633,7 +7982,7 @@
     "vendor": "YUNGBLUD",
     "product_type": "CD",
     "created_at": "2025-06-19T16:20:46+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -8654,7 +8003,7 @@
     "vendor": "YUNGBLUD",
     "product_type": "CD",
     "created_at": "2025-06-13T16:06:42+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -8675,7 +8024,7 @@
     "vendor": "YUNGBLUD",
     "product_type": "CD",
     "created_at": "2025-06-13T16:06:06+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -8696,7 +8045,7 @@
     "vendor": "YUNGBLUD",
     "product_type": "CD",
     "created_at": "2025-06-13T16:01:50+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -8717,7 +8066,7 @@
     "vendor": "mgk",
     "product_type": "CD",
     "created_at": "2025-06-13T16:10:19+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "mgk",
@@ -8738,7 +8087,7 @@
     "vendor": "YUNGBLUD",
     "product_type": "CD",
     "created_at": "2025-06-13T16:02:11+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -8759,7 +8108,7 @@
     "vendor": "HAIM",
     "product_type": "Vinyl",
     "created_at": "2025-06-11T17:47:06+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "HAIM",
       "Music"
@@ -8779,7 +8128,7 @@
     "vendor": "HAIM",
     "product_type": "CD",
     "created_at": "2025-06-11T17:46:09+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "HAIM",
       "Music"
@@ -8799,7 +8148,7 @@
     "vendor": "Chappell Roan",
     "product_type": "Vinyl",
     "created_at": "2025-05-19T15:11:13+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Chappell Roan",
       "Music"
@@ -8819,7 +8168,7 @@
     "vendor": "Chappell Roan",
     "product_type": "Vinyl",
     "created_at": "2025-05-19T15:10:28+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Chappell Roan",
       "Music"
@@ -8839,7 +8188,7 @@
     "vendor": "Chappell Roan",
     "product_type": "Vinyl",
     "created_at": "2025-05-19T15:09:42+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Chappell Roan",
       "Music"
@@ -8859,7 +8208,7 @@
     "vendor": "Alan Menken, Howard Ashman, Lin-Manuel Miranda",
     "product_type": "CD",
     "created_at": "2025-04-28T00:39:04+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Disney",
       "Music"
@@ -8879,7 +8228,7 @@
     "vendor": "Doechii",
     "product_type": "Vinyl",
     "created_at": "2025-04-19T18:51:58+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Doechii",
       "Music"
@@ -8899,7 +8248,7 @@
     "vendor": "Doechii",
     "product_type": "VInyl",
     "created_at": "2025-04-19T18:51:06+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Doechii",
       "Music"
@@ -8919,7 +8268,7 @@
     "vendor": "Doechii",
     "product_type": "CD",
     "created_at": "2025-04-19T18:48:59+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Doechii",
       "Music"
@@ -8939,7 +8288,7 @@
     "vendor": "Kendrick Lamar",
     "product_type": "Vinyl",
     "created_at": "2025-04-17T16:49:58+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Kendrick Lamar",
       "Music"
@@ -8959,7 +8308,7 @@
     "vendor": "Joe Jonas",
     "product_type": "Vinyl",
     "created_at": "2025-04-17T15:39:52+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Joe Jonas",
       "Jonas Brothers",
@@ -8980,7 +8329,7 @@
     "vendor": "Joe Jonas",
     "product_type": "CD",
     "created_at": "2025-04-17T15:38:33+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Joe Jonas",
       "Jonas Brothers",
@@ -9001,7 +8350,7 @@
     "vendor": "Cynthia Erivo",
     "product_type": "Vinyl",
     "created_at": "2025-04-17T12:40:52+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Cynthia Erivo",
       "Music"
@@ -9021,7 +8370,7 @@
     "vendor": "Dean Lewis",
     "product_type": "Vinyl",
     "created_at": "2025-04-17T12:01:40+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Dean Lewis",
       "Music"
@@ -9041,7 +8390,7 @@
     "vendor": "Selena Gomez, benny blanco",
     "product_type": "CD",
     "created_at": "2025-02-22T18:05:30+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -9062,7 +8411,7 @@
     "vendor": "Imagine Dragons",
     "product_type": "Vinyl",
     "created_at": "2025-02-21T11:08:49+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Imagine Dragons",
       "Music"
@@ -9082,7 +8431,7 @@
     "vendor": "Maroon 5",
     "product_type": "CD",
     "created_at": "2025-01-22T14:47:46+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Maroon 5",
       "Music"
@@ -9102,7 +8451,7 @@
     "vendor": "Sabrina Carpenter",
     "product_type": "Vinyl",
     "created_at": "2024-11-11T18:46:07+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Sabrina Carpenter"
@@ -9122,7 +8471,7 @@
     "vendor": "Hozier",
     "product_type": "Vinyl",
     "created_at": "2024-11-11T18:43:07+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Hozier",
       "Music"
@@ -9142,7 +8491,7 @@
     "vendor": "Hozier",
     "product_type": "Vinyl",
     "created_at": "2024-11-11T18:42:23+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Hozier",
       "Music"
@@ -9162,7 +8511,7 @@
     "vendor": "Alessia Cara",
     "product_type": "Vinyl",
     "created_at": "2024-10-22T20:56:07+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Alessia Cara",
       "Music"
@@ -9182,7 +8531,7 @@
     "vendor": "Alessia Cara",
     "product_type": "CD",
     "created_at": "2024-10-22T20:54:46+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Alessia Cara",
       "Music"
@@ -9202,7 +8551,7 @@
     "vendor": "Hozier",
     "product_type": "Vinyl",
     "created_at": "2024-10-17T16:28:48+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Hozier",
       "Music"
@@ -9222,7 +8571,7 @@
     "vendor": "Hozier",
     "product_type": "CD",
     "created_at": "2024-10-17T16:17:13+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Hozier",
       "Music"
@@ -9242,7 +8591,7 @@
     "vendor": "Hozier",
     "product_type": "Vinyl",
     "created_at": "2024-10-17T16:15:50+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Hozier",
       "Music"
@@ -9262,7 +8611,7 @@
     "vendor": "Shawn Mendes",
     "product_type": "CD",
     "created_at": "2024-10-11T11:22:41+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -9283,7 +8632,7 @@
     "vendor": "Shawn Mendes",
     "product_type": "Vinyl",
     "created_at": "2024-10-11T11:20:49+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "Music",
@@ -9304,7 +8653,7 @@
     "vendor": "Dean Lewis",
     "product_type": "Vinyl",
     "created_at": "2024-10-10T15:47:27+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Dean Lewis",
       "Music"
@@ -9324,7 +8673,7 @@
     "vendor": "Dean Lewis",
     "product_type": "CD",
     "created_at": "2024-10-10T15:44:24+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Dean Lewis",
       "Music"
@@ -9344,7 +8693,7 @@
     "vendor": "Dean Lewis",
     "product_type": "Vinyl",
     "created_at": "2024-10-10T15:41:48+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Dean Lewis",
       "Music"
@@ -9364,7 +8713,7 @@
     "vendor": "Dean Lewis",
     "product_type": "Vinyl",
     "created_at": "2024-10-10T15:43:08+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Dean Lewis",
       "Music"
@@ -9384,7 +8733,7 @@
     "vendor": "Dean Lewis",
     "product_type": "CD",
     "created_at": "2024-10-10T15:39:57+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Dean Lewis",
       "Music"
@@ -9404,7 +8753,7 @@
     "vendor": "FINNEAS",
     "product_type": "CD",
     "created_at": "2024-10-10T12:15:44+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "FINNEAS",
@@ -9425,7 +8774,7 @@
     "vendor": "FINNEAS",
     "product_type": "Vinyl",
     "created_at": "2024-10-10T12:13:44+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "FINNEAS",
@@ -9446,7 +8795,7 @@
     "vendor": "FINNEAS",
     "product_type": "Vinyl",
     "created_at": "2024-10-10T12:11:23+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "FINNEAS",
@@ -9467,7 +8816,7 @@
     "vendor": "FINNEAS",
     "product_type": "CD",
     "created_at": "2024-10-10T12:12:35+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "FINNEAS",
@@ -9488,7 +8837,7 @@
     "vendor": "OneRepublic",
     "product_type": "CD",
     "created_at": "2024-09-23T16:33:35+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "OneRepublic"
@@ -9508,7 +8857,7 @@
     "vendor": "OneRepublic",
     "product_type": "Vinyl",
     "created_at": "2024-09-23T16:30:56+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "OneRepublic"
@@ -9528,7 +8877,7 @@
     "vendor": "The Beatles",
     "product_type": "Vinyl",
     "created_at": "2024-09-12T19:41:16+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Beatles"
@@ -9548,7 +8897,7 @@
     "vendor": "The Beatles",
     "product_type": "Vinyl",
     "created_at": "2024-09-12T19:38:58+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Beatles"
@@ -9568,7 +8917,7 @@
     "vendor": "The Beatles",
     "product_type": "Vinyl",
     "created_at": "2024-09-12T19:37:06+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "OST",
@@ -9589,7 +8938,7 @@
     "vendor": "The Beatles",
     "product_type": "Vinyl",
     "created_at": "2024-09-12T19:32:33+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Beatles"
@@ -9609,7 +8958,7 @@
     "vendor": "Justin Bieber",
     "product_type": "Cassette",
     "created_at": "2024-09-11T17:57:39+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Justin Bieber",
       "Music"
@@ -9629,7 +8978,7 @@
     "vendor": "Justin Bieber",
     "product_type": "CD",
     "created_at": "2024-09-11T17:54:20+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Justin Bieber",
       "Music"
@@ -9649,7 +8998,7 @@
     "vendor": "Justin Bieber",
     "product_type": "Cassette",
     "created_at": "2024-09-11T17:56:40+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Justin Bieber",
       "Music"
@@ -9669,7 +9018,7 @@
     "vendor": "Justin Bieber",
     "product_type": "CD",
     "created_at": "2024-09-11T17:53:15+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Justin Bieber",
       "Music"
@@ -9689,7 +9038,7 @@
     "vendor": "Justin Bieber",
     "product_type": "Cassette",
     "created_at": "2024-09-11T17:55:43+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Justin Bieber",
       "Music"
@@ -9709,7 +9058,7 @@
     "vendor": "Sam Smith",
     "product_type": "Cassette",
     "created_at": "2024-09-11T12:11:43+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Sam Smith"
@@ -9729,7 +9078,7 @@
     "vendor": "Sam Smith",
     "product_type": "Vinyl",
     "created_at": "2024-09-11T12:10:07+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Sam Smith"
@@ -9749,7 +9098,7 @@
     "vendor": "Katy Perry",
     "product_type": "Vinyl",
     "created_at": "2024-07-12T13:29:38+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Katy Perry",
       "Music"
@@ -9769,7 +9118,7 @@
     "vendor": "Post Malone",
     "product_type": "CD",
     "created_at": "2024-06-27T17:17:42+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Post Malone"
@@ -9789,7 +9138,7 @@
     "vendor": "Post Malone",
     "product_type": "Vinyl",
     "created_at": "2024-06-27T17:20:24+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Post Malone"
@@ -9809,7 +9158,7 @@
     "vendor": "Post Malone",
     "product_type": "CD",
     "created_at": "2024-06-27T15:46:27+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Post Malone"
@@ -9829,7 +9178,7 @@
     "vendor": "Post Malone",
     "product_type": "CD",
     "created_at": "2024-06-27T15:44:48+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Post Malone"
@@ -9849,7 +9198,7 @@
     "vendor": "Gracie Abrams",
     "product_type": "Vinyl",
     "created_at": "2024-06-26T16:17:26+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Gracie Abrams",
       "Music"
@@ -9869,7 +9218,7 @@
     "vendor": "Camila Cabello",
     "product_type": "CD",
     "created_at": "2024-06-26T16:31:51+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "BFCM",
       "Camila Cabello",
@@ -9890,7 +9239,7 @@
     "vendor": "Lana Del Rey",
     "product_type": "CD",
     "created_at": "2024-05-16T10:34:14+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Lana Del Rey",
       "Music"
@@ -9910,7 +9259,7 @@
     "vendor": "Lana Del Rey",
     "product_type": "CD",
     "created_at": "2024-05-16T10:35:06+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Lana Del Rey",
       "Music"
@@ -9930,7 +9279,7 @@
     "vendor": "Taylor Swift",
     "product_type": "CD",
     "created_at": "2024-05-15T17:58:16+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -9950,7 +9299,7 @@
     "vendor": "Taylor Swift",
     "product_type": "CD",
     "created_at": "2024-05-15T17:56:36+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "Taylor Swift"
@@ -9970,7 +9319,7 @@
     "vendor": "The Beatles",
     "product_type": "Vinyl",
     "created_at": "2024-05-08T17:18:07+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Beatles"
@@ -9990,7 +9339,7 @@
     "vendor": "The Beatles",
     "product_type": "CD",
     "created_at": "2024-05-08T17:35:52+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Beatles"
@@ -10010,7 +9359,7 @@
     "vendor": "The Beatles",
     "product_type": "CD",
     "created_at": "2024-05-08T17:36:43+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Beatles"
@@ -10030,7 +9379,7 @@
     "vendor": "The Beatles",
     "product_type": "Vinyl",
     "created_at": "2024-05-08T17:05:45+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Beatles"
@@ -10050,7 +9399,7 @@
     "vendor": "The Beatles",
     "product_type": "Vinyl",
     "created_at": "2024-05-08T17:03:57+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Beatles"
@@ -10070,7 +9419,7 @@
     "vendor": "The Beatles",
     "product_type": "Vinyl",
     "created_at": "2024-05-08T17:32:47+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Beatles"
@@ -10090,7 +9439,7 @@
     "vendor": "The Beatles",
     "product_type": "Vinyl",
     "created_at": "2024-05-08T17:19:18+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Beatles"
@@ -10110,7 +9459,7 @@
     "vendor": "The Beatles",
     "product_type": "Vinyl",
     "created_at": "2024-05-08T16:52:30+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Beatles"
@@ -10130,7 +9479,7 @@
     "vendor": "The Beatles",
     "product_type": "CD",
     "created_at": "2024-05-08T16:46:33+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music",
       "The Beatles"
@@ -10150,7 +9499,7 @@
     "vendor": "Katy Perry",
     "product_type": "Vinyl",
     "created_at": "2024-05-09T15:36:55+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Katy Perry",
       "Music"
@@ -10170,7 +9519,7 @@
     "vendor": "Katy Perry",
     "product_type": "CD",
     "created_at": "2024-05-09T15:17:10+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Katy Perry",
       "Music"
@@ -10182,26 +9531,6 @@
     "available": true,
     "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/Smile.jpg?v=1718849683"
   },
-  "48937829663009": {
-    "product_id": 9320807203105,
-    "title": "sweetener cd",
-    "handle": "sweetener-cd",
-    "url": "https://umusic.my/products/sweetener-cd",
-    "vendor": "Ariana Grande",
-    "product_type": "CD",
-    "created_at": "2024-05-08T13:01:02+08:00",
-    "updated_at": "2026-11-11T17:42:00+08:00",
-    "tags": [
-      "Ariana Grande",
-      "Music"
-    ],
-    "variant_title": null,
-    "sku": "6783809I",
-    "price": "40.00",
-    "compare_at_price": null,
-    "available": false,
-    "image": "https://cdn.shopify.com/s/files/1/0763/0707/1265/files/SweetenerCD.jpg?v=1779078045"
-  },
   "48937714909473": {
     "product_id": 9320804548897,
     "title": "LOOM Store Exclusive Yellow Vinyl",
@@ -10210,7 +9539,7 @@
     "vendor": "Imagine Dragons",
     "product_type": "Vinyl",
     "created_at": "2024-05-08T12:45:10+08:00",
-    "updated_at": "2026-11-11T17:42:01+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Imagine Dragons",
       "Music"
@@ -10230,7 +9559,7 @@
     "vendor": "Imagine Dragons",
     "product_type": "Vinyl",
     "created_at": "2024-05-06T17:34:48+08:00",
-    "updated_at": "2026-11-11T17:42:01+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Imagine Dragons",
       "Music"
@@ -10250,7 +9579,7 @@
     "vendor": "Imagine Dragons",
     "product_type": "Vinyl",
     "created_at": "2024-05-06T17:32:52+08:00",
-    "updated_at": "2026-11-11T17:42:01+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Imagine Dragons",
       "Music"
@@ -10270,7 +9599,7 @@
     "vendor": "Imagine Dragons",
     "product_type": "CD",
     "created_at": "2024-05-06T17:22:01+08:00",
-    "updated_at": "2026-11-11T17:42:01+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Imagine Dragons",
       "Music"
@@ -10290,7 +9619,7 @@
     "vendor": "Halsey",
     "product_type": "Vinyl",
     "created_at": "2024-04-30T18:32:36+08:00",
-    "updated_at": "2026-11-11T17:42:01+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Halsey",
       "Music"
@@ -10310,7 +9639,7 @@
     "vendor": "Ellie Goulding",
     "product_type": "Vinyl",
     "created_at": "2024-04-30T18:25:32+08:00",
-    "updated_at": "2026-11-11T17:42:01+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Ellie Goulding",
       "Music"
@@ -10330,7 +9659,7 @@
     "vendor": "Ellie Goulding",
     "product_type": "Vinyl",
     "created_at": "2024-04-30T18:24:32+08:00",
-    "updated_at": "2026-11-11T17:42:01+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Ellie Goulding",
       "Music"
@@ -10350,7 +9679,7 @@
     "vendor": "Ellie Goulding",
     "product_type": "CD",
     "created_at": "2024-04-30T18:23:19+08:00",
-    "updated_at": "2026-11-11T17:42:01+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Ellie Goulding",
       "Music"
@@ -10370,7 +9699,7 @@
     "vendor": "Ellie Goulding",
     "product_type": "CD",
     "created_at": "2024-04-30T18:21:18+08:00",
-    "updated_at": "2026-11-11T17:42:01+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Ellie Goulding",
       "Music"
@@ -10390,7 +9719,7 @@
     "vendor": "Imagine Dragons",
     "product_type": "CD",
     "created_at": "2024-04-22T18:27:32+08:00",
-    "updated_at": "2026-11-11T17:42:01+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Imagine Dragons",
       "Music"
@@ -10410,7 +9739,7 @@
     "vendor": "Imagine Dragons",
     "product_type": "Vinyl",
     "created_at": "2024-04-22T18:25:24+08:00",
-    "updated_at": "2026-11-11T17:42:01+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Imagine Dragons",
       "Music"
@@ -10430,7 +9759,7 @@
     "vendor": "ZAYN",
     "product_type": "Vinyl",
     "created_at": "2024-04-02T12:51:53+08:00",
-    "updated_at": "2026-11-11T17:42:01+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Music"
     ],
@@ -10449,7 +9778,7 @@
     "vendor": "Ariana Grande",
     "product_type": "CD",
     "created_at": "2024-04-01T23:56:07+08:00",
-    "updated_at": "2026-11-11T17:42:01+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Ariana Grande",
       "Music"
@@ -10469,7 +9798,7 @@
     "vendor": "Metallica",
     "product_type": "Vinyl",
     "created_at": "2024-03-14T15:07:16+08:00",
-    "updated_at": "2026-11-11T17:42:01+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Metallica",
       "Music"
@@ -10489,7 +9818,7 @@
     "vendor": "Metallica",
     "product_type": "Vinyl",
     "created_at": "2024-03-14T15:05:29+08:00",
-    "updated_at": "2026-11-11T17:42:01+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Metallica",
       "Music"
@@ -10509,7 +9838,7 @@
     "vendor": "Metallica",
     "product_type": "Vinyl",
     "created_at": "2024-03-14T14:53:43+08:00",
-    "updated_at": "2026-11-11T17:42:01+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Metallica",
       "Music"
@@ -10529,7 +9858,7 @@
     "vendor": "Metallica",
     "product_type": "Vinyl",
     "created_at": "2024-03-13T17:20:44+08:00",
-    "updated_at": "2026-11-11T17:42:01+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Metallica",
       "Music"
@@ -10549,7 +9878,7 @@
     "vendor": "Metallica",
     "product_type": "Vinyl",
     "created_at": "2024-03-13T17:14:15+08:00",
-    "updated_at": "2026-11-11T17:42:01+08:00",
+    "updated_at": "2026-11-12T01:40:18+08:00",
     "tags": [
       "Metallica",
       "Music"
